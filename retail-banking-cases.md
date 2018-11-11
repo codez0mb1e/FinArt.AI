@@ -1,5 +1,7 @@
 ﻿
-# AI in Finance
+# AI in Retail Banking
+
+![AI in Retail Banking](images/ai-in-retail-banking.png)
 
 ## Security and Fraud
 ### Payments Security
@@ -44,7 +46,8 @@
 
 ### Operational Office
 - Customer queue forecast
-- Optimization of the branch/offices network.
+- Optimization of the branch/offices network
+- Optimization number of staff which needed in the office today.
 
 
 ## Risk Management 
@@ -81,8 +84,10 @@
 ### Call-center
 - Automatic chat bots replies<sup>[CONF](conferences.md)</sup>
 - Automatic call/message routing based on the issue domain
+    - Speech-to-Text recognition for smart routing
+- Operator assistant (Human+AI)
 - Sentiment analysis of customer and support interaction
-- Voice identification (see [Biometric Identification](#identification-2.0)).
+- Voice identification (see [Biometric Identification](#identification-20)).
 
 ### Self-service App
 - Intellectual financial assistant (see [Personal Finance Management](#personal-finance-management))

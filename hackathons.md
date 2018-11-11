@@ -1,4 +1,4 @@
-# Hackathons and competitions
+# Hackathons and Competitions
 
 ### 2018
 - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk): the risk of nonpayment of the loan.
@@ -6,7 +6,7 @@
 - [Modulbank AI Hack MSK](https://boosters.pro/champ_modulbank_msk): predicting the probability of selling a product.
 - [Raiffeisen Data Cup](https://boosters.pro/champ_11): prediction of work and home coordinates of the client.
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge): predict the value of transactions for potential customers.
-- [Sberbank Data Science Journey 2018](https://sdsj.sberbank.ai/): automated ML.
+- [Sberbank Data Science Journey 2018](https://sdsj.sberbank.ai/): automated ML on several banking datasets.
 
 ### 2017
 - [Tinkoff Data Science Challenge](https://boosters.pro/champ_3): choice of Tinkoff bank credit proposals and restore the position of the merchant.

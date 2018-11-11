@@ -4,7 +4,11 @@
 _The purpose of this project is to describe the cases of application of __Artificial Intelligence (AI)__ 
 technologies in the __financial sector__._
 
+![AI in Finance](images/ai-in-finance.png)
+
 In the first version of the project we will describe cases typical for retail banks.
+
+![AI in Retail Banking](images/ai-in-retail-banking.png)
 
 #### Project Structure
 1. Retail banking:
@@ -14,6 +18,5 @@ In the first version of the project we will describe cases typical for retail ba
     - [Conferences](conferences.md).
 
 #### Roadmap
-AI cases in:
-1. Financial markets;
-2. Insurance.
+1. AI cases in Financial markets;
+2. AI cases in Insurance.
