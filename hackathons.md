@@ -1,6 +1,7 @@
 # Hackathons and Competitions
 
 ### 2018
+- [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation): MCCs recommendations for a customer.
 - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk): the risk of nonpayment of the loan.
 - [Rosbank ML Competition](https://boosters.pro/champ_15): customer churn and forecast expenditure of the client.
 - [Modulbank AI Hack MSK](https://boosters.pro/champ_modulbank_msk): predicting the probability of selling a product.
