@@ -83,10 +83,15 @@
 ## Customer Services
 ### Call-center
 - Automatic chat bots replies<sup>[CONF](conferences.md)</sup>
+    - Text format replies
+    - Voice format replies (Text-to-Voice generation)
 - Automatic call/message routing based on the issue domain
     - Speech-to-Text recognition for smart routing
-- Operator assistant (Human+AI)
+- Operator assistant (Human intelligence + AI)
+    - Quick intellectual search by knowledge base
 - Sentiment analysis of customer and support interaction
+    - Chat bots or speech-to-text logs sentiment analysis
+    - Tone of voice and emotion identification
 - Voice identification (see [Biometric Identification](#identification-20)).
 
 ### Self-service App

@@ -6,9 +6,7 @@ technologies in the __financial sector__._
 
 ![AI in Finance](images/ai-in-finance.png)
 
-In the first version of the project we will describe cases typical for retail banks.
-
-![AI in Retail Banking](images/ai-in-retail-banking.png)
+_Warning_: In the first version of the project we will describe cases typical for retail banks (see [Rodmap](#roadmap)).
 
 #### Project Structure
 1. Retail banking:

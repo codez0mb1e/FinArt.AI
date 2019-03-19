@@ -8,7 +8,7 @@
 6. [ATM Transaction Data of City Union Bank](https://www.kaggle.com/nitsbat/atm-transaction-data-of-city-bank).
 7. [Lending Club Statistics](https://www.lendingclub.com/info/download-data.action).
 
-### Private Datasets
+### Data Privacy
 __Data Privacy__ is one of the main challenges of intellectual data analysis, especially in finance.
 
 Data Privacy research papers:
