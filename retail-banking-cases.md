@@ -1,7 +1,7 @@
 ﻿
 # AI in Retail Banking
 
-![AI in Retail Banking](images/ai-in-retail-banking.png)
+![AI in Retail Banking](https://static.0xcode.in/images/ai-in-banking.png)
 
 ## Security and Fraud
 ### Payments Security

@@ -4,7 +4,7 @@
 _The purpose of this project is to describe the cases of application of __Artificial Intelligence (AI)__ 
 technologies in the __financial sector__._
 
-![AI in Finance](images/ai-in-finance.png)
+![AI in Finance](https://static.0xcode.in/images/ai-in-finance.png)
 
 _Warning_: In the first version of the project we will describe cases typical for retail banks (see [Rodmap](#roadmap)).
 
