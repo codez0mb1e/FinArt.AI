@@ -1,13 +1,13 @@
 # Financial Markets
 List of __research papers about AI cases__ in financial markets.
 
-## Portfolio management optimization
+## Portfolio Management Optimization
 - Zhengyao Jiang, et. al. [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/pdf/1706.10059.pdf).
  <sup>[code](https://paperswithcode.com/paper/a-deep-reinforcement-learning-framework-for)</sup>.
 - Zhipeng Liang, et. al. [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/pdf/1808.09940.pdf).
 - Olivier Jin, Hamza El-Saawy. [Portfolio Management using Reinforcement Learning](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf).
 
-## Trade execution optimization
+## Trade Execution Optimization
 - Brian Ning, et. al. [Double Deep Q-Learning for Optimal Execution](https://arxiv.org/pdf/1812.06600.pdf).
 - Yuriy Nevmyvaka, et. [Reinforcement Learning for Optimized Trade Execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf).
 
