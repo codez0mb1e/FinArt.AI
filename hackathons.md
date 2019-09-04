@@ -3,7 +3,7 @@
 ### 2019
 - [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction): identify who will make a transaction.
 - [Xente Fraud Detection Challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge): classify the fraudulent transactions.
-- [https://www.kaggle.com/c/ieee-fraud-detection/](https://www.kaggle.com/c/ieee-fraud-detection/): classify the fraudulent transactions
+- [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/): classify the fraudulent transactions.
 
 ### 2018
 - [Elo Merchant Category Recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation): MCCs recommendations for a customer.
