@@ -11,7 +11,13 @@ List of __research papers about AI cases__ in financial markets.
 
 ## Trade Execution Optimization
 - Brian Ning, et. al. [Double Deep Q-Learning for Optimal Execution](https://arxiv.org/pdf/1812.06600.pdf).
-- Yuriy Nevmyvaka, et. [Reinforcement Learning for Optimized Trade Execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf).
+- Yuriy Nevmyvaka, et. al. [Reinforcement Learning for Optimized Trade Execution](https://www.seas.upenn.edu/~mkearns/papers/rlexec.pdf).
+- Adamantios Ntakarisa, et. al. [Feature Engineering for Mid-Price Prediction with Deep Learning](https://arxiv.org/pdf/1904.05384.pdf).
+- Paraskevi Nousia, et. al.[Machine Learning for Forecasting Mid Price Movement using Limit Order Book Data
+](https://arxiv.org/pdf/1809.07861.pdf).
+- Faisal Qureshi. [Investigating Limit Order Book Characteristics for Short Term Price Prediction: a Machine Learning Approach](https://arxiv.org/pdf/1901.10534.pdf).
+- Alec N.Kercheval, Yaun Zhang. [Modeling high-frequency limit order book dynamics with support vector machines](https://www.math.fsu.edu/~aluffi/archive/paper462.pdf).
+
 
 ## Forecasting
 #### Trends forecasting
@@ -28,3 +34,4 @@ _Filling that section in progress..._
 _Filling sections below in progress..._
 #### Anomaly in the market operating mode
 #### Anomaly in the share trading operating mode
+#### Price manipulation detection
