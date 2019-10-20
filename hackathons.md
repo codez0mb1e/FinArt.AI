@@ -1,6 +1,7 @@
 # Hackathons and Competitions
 
 ### 2019
+- [Data Like Contest](https://vc.ru/data-like): predicting customer reaction to a  user story ([solution](https://github.com/codez0mb1e/tinkoff-data-like-contest)).
 - [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction): identify who will make a transaction.
 - [Xente Fraud Detection Challenge](https://zindi.africa/competitions/xente-fraud-detection-challenge): classify the fraudulent transactions.
 - [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/): classify the fraudulent transactions.
