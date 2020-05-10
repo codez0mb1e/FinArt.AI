@@ -14,8 +14,8 @@ technologies in the __financial sector__._
     - [Hackathons and competitions](hackathons.md)
     - [Conferences](conferences.md).
     
-2. AI in __Financial Markets__;
+2. AI in __Financial Markets__:
     - [Research papers](financial-markets.md).
     
-3. AI cases in __Insurance__.
+3. AI cases in __Insurance__:
     - [Cases](insurance-cases.md).
