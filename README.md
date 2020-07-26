@@ -15,7 +15,7 @@ technologies in the __financial sector__._
     - [Conferences](conferences.md).
     
 2. AI in __Financial Markets__:
-    - [Research papers](financial-markets.md).
+    - [Research papers](/codez0mb1e/deep-trading/blob/master/research-papers.md).
     
 3. AI cases in __Insurance__:
     - [Cases](insurance-cases.md).
