@@ -14,11 +14,11 @@ _The purpose of this project is to describe the cases of application of __Artifi
     - [Conferences](banking/conferences.md).
 
 2. AI in __Financial Markets__:
-    - [Datasets](financial-markets/datasets.md)
-    - [Research papers](financial-markets/research-papers.md).
+    - [Datasets](markets/datasets.md)
+    - [Research papers](markets/research-papers.md).
 
 3. AI cases in __Insurance__:
-    - [Cases](insurance-cases.md).
+    - [Cases](insurance/cases.md).
 
 4. Common
     - [Data Privacy](data_privacy.md).
