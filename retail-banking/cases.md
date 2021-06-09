@@ -4,7 +4,9 @@
 ![AI in Retail Banking](https://static.0xcode.in/images/ai-in-banking.png)
 
 ## Security and Fraud
+
 ### Payments Security
+
 - Credit card fraud detection:<sup>[CONF](conferences.md), [HACK](hackathons.md)</sup>
     - Card-present antifraud
     - Card-not-present antifraud
@@ -22,11 +24,13 @@
     - Chargebacks/malicious payment chains prevention. 
 
 ### Oversight and Insight
+
 - Insider detection
 - Information attacks detection:
     - Including via social media (see [Media Analysis](#media-analysis)).
 
 ### Identification 2.0
+
 - Biometric:
     - Voice recognition
     - Face recognition
@@ -34,24 +38,30 @@
 
 
 ## Operational Efficiencies
+
 ### Legal 
+
 - Generation of the statement of claim<sup>[CONF](conferences.md)</sup> 
 - Data extraction from contracts.
 
 ### ATM
+
 - Cash supply prediction<sup>[CONF](conferences.md)</sup>
 - Maintenance prediction
 - Geo-position optimization
 - Compromised ATMs detection.
 
 ### Operational Office
+
 - Customer queue forecast
 - Optimization of the branch/offices network
 - Optimization number of staff which needed in the office today.
 
 
 ## Risk Management 
+
 ### Credit Scoring and Risk Prediction
+
 - Credit scoring:
     - Classic and smart scoring<sup>[CONF](conferences.md), [HACK](hackathons.md)</sup>
     - Offline and online scoring
@@ -67,6 +77,7 @@
     - Optimization of debt collection strategy.<sup>[CONF](conferences.md)</sup>
 
 ### Regulatory Compliance
+
 - Credit portfolio quality optimization:<sup>[CONF](conferences.md)</sup>
     - Reserve prediction
 - Default modeling:<sup>[CONF](conferences.md)</sup>
@@ -75,13 +86,16 @@
     - Exposure at default (EAD) modeling.
 
 ### Underwriting
+
 - Risk Assessment
 - Fraud Detection
 - Improved Efficiency.
 
 
 ## Customer Services
+
 ### Call-center
+
 - Automatic chat bots replies<sup>[CONF](conferences.md)</sup>
     - Text format replies
     - Voice format replies (Text-to-Voice generation)
@@ -95,23 +109,28 @@
 - Voice identification (see [Biometric Identification](#identification-20)).
 
 ### Self-service App
+
 - Intellectual financial assistant (see [Personal Finance Management](#personal-finance-management))
 - Reception/sending payments chat-bot (see [Intellectual Assistant](#intellectual-assistant)).
 
 
 ## Customer Loyalty and Marketing
+
 ### Segmentation
+
 - Customers segmentation
 - Merchants segmentation
 - Banking products segmentation.
 
 ### Churn and Retention
+
 - Customer churn prediction<sup>[CONF](conferences.md), [HACK](hackathons.md)</sup>
 - Merchant churn prediction
 - Churn drivers detection
 - Retention policy optimization.
 
 ### Media Analysis
+
 - Customer loyalty monitoring:
     - Customer feedback analysis
     - Social network analysis
@@ -129,20 +148,22 @@
     - Social network analysis
     - Support service issues analysis.
 
-
 ## HR
+
 - Data extraction from CVs
 - Detecting most suitable candidates.
 
-
 ## Personal Finance Management
-### Personalized Product Offering 
+
+### Personalized Product Offering
+
 - Cross/up sale<sup>[CONF](conferences.md), [HACK](hackathons.md)</sup>
 - Life-time event based offers
   - e.g., real estate purchase, marriage, childbirth
 - Transaction history based offers.<sup>[CONF](conferences.md)</sup>
 
 ### Income and Expense Planning
+
 - Income / expense forecasting:
     - For customer, concrete credit card or specific <abbr title="Merchant Category Code">MCC</abbr><sup>[HACK](hackathons.md)</sup>
     - For merchants<sup>[HACK](hackathons.md)</sup>
@@ -151,6 +172,7 @@
     - Investment income tips.
 
 ### Intellectual Assistant
+
 - Request to answer chat bot:
     - by knowledge base<sup>[HACK](hackathons.md)</sup>: 
       - e.g., what is the subscription fee on my tariff plan?

@@ -14,14 +14,12 @@
 * Churn prediction
 * The prediction of the effectiveness of issuing instruments `#uplift`.
 
-
 ## Risk Management and Underwriting 
 
 ### Losses prediction
 
 * For accident-free (emergency) history
 * By driving style `#telematics`.
-
 
 ### Fraud prevention
 
@@ -30,13 +28,11 @@
 * Restoring competitors' tariffs (pricing) guidelines
 * Optimize your own tariffs (pricing).
 
-
 ## Cross/up sale
 
 * Insurance product recommendations
 * Life triggers searching:
     * e.g., buying a car, housing, or giving birth to a child.
-
 
 ## Segmentation
 
@@ -44,7 +40,6 @@
 * Agents segmentation
 * Insurance products segmentation 
     * including products competitors.
-
 
 ## Frictionless
 
