@@ -1,36 +1,36 @@
 
-# Datasets
+# Datasets and APIs
 
 List of datasets and service APIs with __Financial Markets__ data.
 
 ## Datasets
 
 - [CBOE](http://cfe.cboe.com/market-data/) `#vix` `#futures`
-- [DB Nomics](https://db.nomics.world/) ([R package](https://macro.cepremap.fr/article/2019-10/rdbnomics-tutorial/)) `#data-index`
+- [DB Nomics](https://db.nomics.world/) ([R package](https://macro.cepremap.fr/article/2019-10/rdbnomics-tutorial/)) `#data-feed`
 - [Commodity Futures Trading Commission](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm) `#commodity` `#reports`
 - [U.S. stocks and ETFs](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) `#NYSE` `#NASDAQ` `#ETF` `#1-day-candle`
 - [S&P 500 stock data](https://www.kaggle.com/camnugent/sandp500) `#sp-500` `#1-day-candle`
-- [DataHub Economic Data](https://datahub.io/collections/economic-data) `#data-index` `#macroeconomics`
+- [DataHub Economic Data](https://datahub.io/collections/economic-data) `#data-feed` `#macroeconomics`
 - [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data) `#bitcoin` `#1-minute-candle`
 - [Complete Historical Cryptocurrency Financial Data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data) `#crypto` `#1-day-candle`
 - [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse) `#NYSE` `#sp-500` `#1-day-candle` `#fundamentals`
 - [Foreign Exchange Rates 2000-2019](https://www.kaggle.com/brunotly/foreign-exchange-rates-per-dollar-20002019) `#forex` `#1-day-candle`
 - [Binance Full History](https://www.kaggle.com/jorijnsmit/binance-full-history) `#crypto` `#binance` `1-minute-candle`
 - [Binance Bitcoin Futures Price](https://www.kaggle.com/billqi/binance-bitcoin-futures-price-10s-intervals) `#crypto` `#binance` `#futures` `#10-seconds-candle`
-- [Binance real time trades BTCUSDT ETHUSDT](https://www.kaggle.com/rossr61938/binance-real-time-trades-btcusdt-ethusdt) `#crypto` `#binance` 
+- [Binance real time trades BTCUSDT ETHUSDT](https://www.kaggle.com/rossr61938/binance-real-time-trades-btcusdt-ethusdt) `#crypto` `#binance`
 - [Reddit /r/cryptocurrency](https://www.kaggle.com/nickreinerink/reddit-rcryptocurrency) `#crypto` `#social`
-- [World Bank Data](https://data.worldbank.org/) `banking` `#data-index`
-- [Kaggle Datasets](https://www.kaggle.com/datasets) `#data-index`
-- [World Bank Open Data](https://data.worldbank.org/) `#data-index`
-- [Google public data](https://www.google.com/publicdata/directory) `#data-index`
-- [Google dataset search](https://datasetsearch.research.google.com/) `#data-index`
-- [Registry of Open Data on AWS](https://registry.opendata.aws/) `#data-index`
-- [R datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) `#data-index`
-- [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) on Kaggle `#hackers`
+- [Kaggle Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment`
+- [Kaggle Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
 
 ## Open Data
 
 - [U.S. Securities and Exchange Commission](https://www.sec.gov/edgar/searchedgar/companysearch.html) `#SEC` `#report`
+- [Data.Gov](https://www.data.gov/) `#climate` `#healthcare` `#government`
+- [World Bank Open Data](https://data.worldbank.org/) `#macroeconomics` `#world`
+- [Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) `#climate`
+- [NASA NEX](https://registry.opendata.aws/nasanex/) `#climate`
+- [Norges Bank Investment Management](https://www.nbim.no/en/the-fund/investments/#/)
+
 
 ## Service APIs
 
@@ -48,12 +48,33 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Barchart API](https://www.barchart.com/ondemand/api) `#crypto`
 - [Crypto Exchanges APIs](https://github.com/public-apis/public-apis#cryptocurrency) `#index` `#crypto`
 - [Intrinio API](https://docs.intrinio.com/documentation/) `#market-data` `#fundamentals` `#SEC`
+- [Rank and Fiels](http://rankandfiled.com/#/data/tickers) `#SEC` `#reports`
+- [OpenEDGAR](https://github.com/LexPredict/openedgar) `#SEC` `#reports` `#open-source` `#free`
+- [FMP API](https://financialmodelingprep.com/developer/) `#market-data` `#free`
+- [Markets Stack](https://marketstack.com/documentation) `#market-data`
+
+
+## Trends, News Aggregators, and Dashboards
+
 - [Google Trends](https://trends.google.com/) `#news`
 - [News APIs](https://github.com/public-apis/public-apis#cryptocurrency) `#index` `#news`
 - [GitHub API](https://docs.github.com/en/rest/overview) `#developer-activity` `#community`
 - [StackExchange API](https://api.stackexchange.com/docs) `#community`
-
-## Dashboards
-
-- [TradingView](https://www.tradingview.com/)
+- [TradingView](https://www.tradingview.com/) `#charts`
 - [Santiment](https://app.santiment.net/) `#crypto`
+
+
+## Data Feeds and Community Threads
+
+- [World Bank Data](https://data.worldbank.org/) `banking` `#data-feed`
+- [Kaggle Datasets](https://www.kaggle.com/datasets) `#data-feed`
+- [World Bank Open Data](https://data.worldbank.org/) `#data-feed`
+- [Google public data](https://www.google.com/publicdata/directory) `#data-feed`
+- [Google dataset search](https://datasetsearch.research.google.com/) `#data-feed`
+- [Registry of Open Data on AWS](https://registry.opendata.aws/) `#data-feed`
+- [R datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) `#data-feed`
+- [Stanford Network Analysis Project](http://snap.stanford.edu/index.html) `#data-feed` `#network-analysis`
+- [Paperswithcode Datasets](https://www.paperswithcode.com/datasets) `#data-feed`
+- [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `thread`
+- [Reddit Open Data](https://www.reddit.com/r/opendata/)
+- [AwesomeData](@awesomedata) `#data-list`
