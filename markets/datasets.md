@@ -77,4 +77,4 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Paperswithcode Datasets](https://www.paperswithcode.com/datasets) `#data-feed`
 - [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `thread`
 - [Reddit Open Data](https://www.reddit.com/r/opendata/)
-- [AwesomeData](@awesomedata) `#data-list`
+- [AwesomeData](https://github.com/awesomedata) `#data-list`
