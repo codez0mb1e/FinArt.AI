@@ -3,14 +3,6 @@
 
 List of research papers and books about __AI cases in Financial Markets__.
 
-
-
-## Basic Financial and Risk Statistics 
-
-TODO:
-
-
-
 ## Portfolio Optimization and Management
 
 - Zhipeng Liang, et. al. [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/pdf/1808.09940.pdf) [[code]](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-) [[code]](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-) `#RL` `#DDPG` `#PPO` `#PG` `#AdversarialLearning` `#StockMarket` `#China` `#CNN` `#SharpeRatio`
@@ -22,6 +14,8 @@ TODO:
 - Wonsup Shin, et. al. [Automatic Financial Trading Agent for Low-risk Portfolio Management using Deep Reinforcement Learning](https://arxiv.org/abs/1909.03278v1) `#RL` `#DQL` `#CNN` `#CryptoExchange` `#binance` `#USDT`
 
 - Derek Snow. [Machine Learning in Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) [[repo]](https://github.com/firmai/machine-learning-asset-management) `#RL` `#SupervisedLearning` `#UnsupervisedLearning` `#UsefulLinks`
+
+- Frank Z. Xing, et. al. [Discovering Bayesian Market Views for Intelligent Asset Allocation](https://arxiv.org/abs/1802.09911) [[code]](https://github.com/fxing79/ibaa)
 
 - Bernhard Pfaff. [Financial Risk Modelling and Portfolio Optimization with R](https://www.academia.edu/22287157/Financial_Risk_Modelling_and_Portfolio_Optimization_with_R) `#book`
 
@@ -69,6 +63,7 @@ TODO:
 - Johan Bollen, et. al. [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003v1) [[code]](https://github.com/JeffreyJackovich/twitter_sentiment_analysis_and_correlated_trading_indicators).
 
 
+
 ## Assets price and volumes forecasting
 
 - Hyeong Kyu Choi. [Stock Price Correlation Coefficient Prediction with ARIMA-LSTM Hybrid Model](https://arxiv.org/abs/1808.01560v5) [[code]](https://github.com/imhgchoi/Corr_Prediction_ARIMA_LSTM_Hybrid).
@@ -76,9 +71,9 @@ TODO:
 
 - Krauss, Christopher, et. al. [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](https://www.econstor.eu/bitstream/10419/130166/1/856307327.pdf).
 
-- S.E. Yi, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699).
+- S.E. Yi, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699)
 
-
+- Thomas Hollis, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699v1).
 
 ## Time-series 
 

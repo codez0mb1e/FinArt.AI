@@ -17,7 +17,7 @@ _The purpose of this project is to describe the cases of application of __Artifi
 
 2. AI in __Financial Markets__:
     - [Datasets](markets/datasets.md)
-    - [Research papers](markets/research-papers.md).
+    - [Research papers](markets/research_papers.md).
 
 3. AI cases in __Insurance__:
     - [Cases](insurance/cases.md).
