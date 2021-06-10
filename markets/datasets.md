@@ -1,8 +1,7 @@
 
 # Datasets
 
-List of datasets and service APIs with __financial markets__ data.
-
+List of datasets and service APIs with __Financial Markets__ data.
 
 ## Datasets
 
@@ -58,4 +57,3 @@ List of datasets and service APIs with __financial markets__ data.
 
 - [TradingView](https://www.tradingview.com/)
 - [Santiment](https://app.santiment.net/) `#crypto`
-

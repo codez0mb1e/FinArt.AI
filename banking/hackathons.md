@@ -1,5 +1,7 @@
 # Hackathons and Competitions
 
+List of Hackathons and competitions related to __AI cases in Retail Banking__.
+
 ## 2019
 
 - [Rosbank Happy Data Year](https://boosters.pro/championship/rosbank2/overview): predict the popularity index of geolocation for placing an ATM network device

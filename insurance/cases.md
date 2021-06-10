@@ -1,6 +1,8 @@
 
 # AI in Insurance
 
+List of __AI cases in Insurance companies__.
+
 ## Customer Loyalty and Churn
 
 ### Customer loyalty model

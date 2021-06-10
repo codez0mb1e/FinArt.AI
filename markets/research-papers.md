@@ -1,7 +1,7 @@
 
 # Research papers
 
-___List of research papers and books about AI cases in financial markets___.
+List of research papers and books about __AI cases in Financial Markets__.
 
 
 

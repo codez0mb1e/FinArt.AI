@@ -1,6 +1,8 @@
 # Conferences
 
-###Russian
+List of conferences with topics __AI cases in Banking__.
+
+## Russian conferences
 
 1. [Sberbank Data Science Journey](https://habr.com/article/318152/).
 2. [Antifraud Russia](http://vipforum.ru/conferences/antifraud_russia/).
