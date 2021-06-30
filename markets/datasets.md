@@ -11,16 +11,17 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [U.S. stocks and ETFs](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) `#NYSE` `#NASDAQ` `#ETF` `#1-day-candle`
 - [S&P 500 stock data](https://www.kaggle.com/camnugent/sandp500) `#sp-500` `#1-day-candle`
 - [DataHub Economic Data](https://datahub.io/collections/economic-data) `#data-feed` `#macroeconomics`
-- [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data) `#bitcoin` `#1-minute-candle`
+- [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data) `#bitcoin` `#1min-candle`
 - [Complete Historical Cryptocurrency Financial Data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data) `#crypto` `#1-day-candle`
 - [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse) `#NYSE` `#sp-500` `#1-day-candle` `#fundamentals`
 - [Foreign Exchange Rates 2000-2019](https://www.kaggle.com/brunotly/foreign-exchange-rates-per-dollar-20002019) `#forex` `#1-day-candle`
-- [Binance Full History](https://www.kaggle.com/jorijnsmit/binance-full-history) `#crypto` `#binance` `1-minute-candle`
-- [Binance Bitcoin Futures Price](https://www.kaggle.com/billqi/binance-bitcoin-futures-price-10s-intervals) `#crypto` `#binance` `#futures` `#10-seconds-candle`
+- [Binance Full History](https://www.kaggle.com/jorijnsmit/binance-full-history) `#crypto` `#binance` `#1min-candle`
+- [Binance Bitcoin Futures Price](https://www.kaggle.com/billqi/binance-bitcoin-futures-price-10s-intervals) `#crypto` `#binance` `#futures` `#10sec-candle`
 - [Binance real time trades BTCUSDT ETHUSDT](https://www.kaggle.com/rossr61938/binance-real-time-trades-btcusdt-ethusdt) `#crypto` `#binance`
 - [Reddit /r/cryptocurrency](https://www.kaggle.com/nickreinerink/reddit-rcryptocurrency) `#crypto` `#social`
-- [Kaggle Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment`
-- [Kaggle Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
+- [Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment` `#competition`
+- [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
+- [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#trades` `#competition`
 
 ## Open Data
 
