@@ -22,6 +22,7 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment` `#competition`
 - [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#trades` `#competition`
+- [Binance Public Data](https://data.binance.vision/) +[repo](https://github.com/binance/binance-public-data/) `#trades` `#spots` `#futures` `#binance` `#crypto`
 
 ## Open Data
 
