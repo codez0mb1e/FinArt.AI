@@ -23,6 +23,7 @@ List of research papers and books about __AI cases in Financial Markets__.
 
 - Gang Huang, et. al. [Deep reinforcement learning for portfolio management based on the empirical study of chinese stock market](https://arxiv.org/abs/2012.13773)
 
+- Matthew Dixon, Igor Halperin. [G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning](https://arxiv.org/abs/2002.10990)
 
 
 ## Algorithmic trading and execution
