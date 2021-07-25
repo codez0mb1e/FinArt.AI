@@ -7,20 +7,32 @@ _The purpose of this project is to describe the cases of application of __Artifi
 
 [Large image](https://static.0xcode.in/images/ai-in-finance.large.png)
 
-#### Project Structure
+## AI in __Banking__
 
-1. AI in __Banking__:
-    - [Cases](banking/cases.md)
-    - [Datasets](banking/datasets.md)
-    - [Hackathons and competitions](banking/hackathons.md)
-    - [Conferences](banking/conferences.md).
+Lists:
 
-2. AI in __Financial Markets__:
-    - [Datasets](markets/datasets.md)
-    - [Research papers](markets/research_papers.md).
+- [Cases](banking/cases.md)
+- [Datasets](banking/datasets.md)
+- [Hackathons and competitions](banking/hackathons.md)
+- [Conferences](banking/conferences.md).
 
-3. AI cases in __Insurance__:
-    - [Cases](insurance/cases.md).
+## AI in __Financial Markets__
 
-4. Common
-    - [Data Privacy](data_privacy.md).
+Lists:
+
+- [Datasets](markets/datasets.md)
+- [Research papers](markets/research_papers.md)
+- [Programming frameworks](markets/frameworks.md)
+- [Online courses](markets/courses.md).
+
+## AI cases in __Insurance__
+
+Lists:
+
+- [Cases](insurance/cases.md).
+
+## General
+
+Lists:
+
+- [Data Privacy](data_privacy.md).
