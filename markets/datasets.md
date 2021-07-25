@@ -56,14 +56,11 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Markets Stack](https://marketstack.com/documentation) `#market-data`
 
 
-## Trends, News Aggregators, and Dashboards
+## News Aggregators
 
+- [Seeking Alpha: Microsoft news](https://seekingalpha.com/symbol/MSFT/news) `#news` `#equity`
+- [Bloomberg: Microsoft news](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
 - [Google Trends](https://trends.google.com/) `#news`
-- [News APIs](https://github.com/public-apis/public-apis#cryptocurrency) `#index` `#news`
-- [GitHub API](https://docs.github.com/en/rest/overview) `#developer-activity` `#community`
-- [StackExchange API](https://api.stackexchange.com/docs) `#community`
-- [TradingView](https://www.tradingview.com/) `#charts`
-- [Santiment](https://app.santiment.net/) `#crypto`
 
 
 ## Data Feeds and Community Threads
@@ -77,6 +74,9 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [R datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) `#data-feed`
 - [Stanford Network Analysis Project](http://snap.stanford.edu/index.html) `#data-feed` `#network-analysis`
 - [Paperswithcode Datasets](https://www.paperswithcode.com/datasets) `#data-feed`
-- [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `thread`
+- [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `thread` `#community`
 - [Reddit Open Data](https://www.reddit.com/r/opendata/)
-- [AwesomeData](https://github.com/awesomedata) `#data-list`
+- [AwesomeData](https://github.com/awesomedata) `#data-list` `#community`
+- [GitHub API](https://docs.github.com/en/rest/overview) `#developer-activity` `#community`
+- [StackExchange API](https://api.stackexchange.com/docs) `#community`
+- [Google Trends](https://trends.google.com/) `#news`
