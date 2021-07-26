@@ -58,8 +58,9 @@ List of datasets and service APIs with __Financial Markets__ data.
 
 ## News Aggregators
 
-- [Seeking Alpha: Microsoft news](https://seekingalpha.com/symbol/MSFT/news) `#news` `#equity`
-- [Bloomberg: Microsoft news](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
+- [Seeking Alpha: Microsoft news example](https://seekingalpha.com/symbol/MSFT/news) `#news` `#equity`
+- [Bloomberg: Microsoft news example](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
+- [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news)
 - [Google Trends](https://trends.google.com/) `#news`
 
 
