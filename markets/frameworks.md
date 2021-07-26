@@ -5,9 +5,20 @@
 
 ## Python
 
-- **PortfolioLab** ([docs](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/))
+Packages:
+
+- [PortfolioLab](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/)
+- [DeepDow](https://deepdow.readthedocs.io/en/latest/#)
+- [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)
+
+Repos:
+
+- [Deep Portfolio Management](https://github.com/Rachnog/Deep-Portfolio-Management)
+- [Reinforcement learning in portfolio management](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-)
 
 ## R
+
+Packages:
 
 - [Tidyquant](https://business-science.github.io/tidyquant/)
 - PortfolioAnalytics
@@ -20,4 +31,4 @@
 
 ## REST API
 
-- Portfoliooptimizer.io ([docs](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization))]
+- [PortfolioOptimizer.io](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization)
