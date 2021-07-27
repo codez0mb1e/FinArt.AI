@@ -1,6 +1,15 @@
 # Hackathons and Competitions
 
-List of Hackathons and competitions related to __AI cases in Retail Banking__.
+_List of Hackathons and competitions related to __AI cases in Retail Banking__._
+
+## 2021
+
+- [Alfa Battle 2.0](https://boosters.pro/championship/alfabattle2_sand/overview) ([post on habr](https://habr.com/ru/company/alfa/blog/551130/)):
+  - Case #1: the most likely action of the customer in the mobile banking app prediction
+  - Case #2: customer default prediction.
+- [Data Fusion Contest](https://boosters.pro/championship/data_fusion/overview)
+  - The product category prediction
+  - Extracting the product brand from the product name.
 
 ## 2019
 
