@@ -45,15 +45,18 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Alpha Vantage](https://www.alphavantage.co/documentation/) `#crypto`
 - [Santiment](https://neuro.santiment.net/) `#crypto` `#on-chain` `#social` `#developer-activity`
 - [Brave Newcoin](https://bravenewcoin.com/developers) `#crypto`
-- [Nomics](https://docs.nomics.com/) `#crypto`
+- [Nomics](https://docs.nomics.com/) `#crypto` `#market-data`
 - [Blockmodo API](https://blockmodo.com/docs/api) `#crypto`
 - [Barchart API](https://www.barchart.com/ondemand/api) `#crypto`
-- [Crypto Exchanges APIs](https://github.com/public-apis/public-apis#cryptocurrency) `#index` `#crypto`
+- [Cryptocurrency Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) `#index` `#crypto`
+- [Finance Public APIs](https://github.com/public-apis/public-apis#finance) `#index` `#finance`
 - [Intrinio API](https://docs.intrinio.com/documentation/) `#market-data` `#fundamentals` `#SEC`
 - [Rank and Fiels](http://rankandfiled.com/#/data/tickers) `#SEC` `#reports`
 - [OpenEDGAR](https://github.com/LexPredict/openedgar) `#SEC` `#reports` `#open-source` `#free`
 - [FMP API](https://financialmodelingprep.com/developer/) `#market-data` `#free`
 - [Markets Stack](https://marketstack.com/documentation) `#market-data`
+- [FTX API](https://docs.ftx.com/#overview) `#crypto` `#algo-trading` `#market-data` `#spot` `#futures`
+- [Coin Metrics Data Encyclopedia API](https://docs.coinmetrics.io/) `#crypto` `#market-data` `#on-chain-data`
 
 
 ## News Aggregators
@@ -62,6 +65,11 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Bloomberg: Microsoft news example](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
 - [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news)
 - [Google Trends](https://trends.google.com/) `#news`
+
+
+## Analytics and Dashboards
+
+- [IntoTheBlock](https://app.intotheblock.com/) `#crypto` `#market-data` `#on-chain-data` `#mining` `#social`
 
 
 ## Data Feeds and Community Threads
@@ -81,3 +89,4 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [GitHub API](https://docs.github.com/en/rest/overview) `#developer-activity` `#community`
 - [StackExchange API](https://api.stackexchange.com/docs) `#community`
 - [Google Trends](https://trends.google.com/) `#news`
+- [github.com/public-apis](https://github.com/public-apis/public-apis) `#index` `#community`
