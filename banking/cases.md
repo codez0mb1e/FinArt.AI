@@ -23,7 +23,8 @@ List of __AI cases in Retail Banking__.
     - Anomaly ATM/POS activity detection
     - Anomaly mobile-/web-bank activity detection
 - Fraud patterns detection:
-    - Chargebacks/malicious payment chains prevention. 
+    - Chargebacks/malicious payment chains prevention
+- [SWIFT messaging fraud](swift-messaging-fraud.md) prevention. 
 
 ### Oversight and Insight
 
