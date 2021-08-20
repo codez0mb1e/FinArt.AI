@@ -1,7 +1,7 @@
 
 # Datasets and APIs
 
-List of datasets and service APIs with __Financial Markets__ data.
+***List of datasets and service APIs with __Financial Markets__ data.***
 
 ## Datasets
 
@@ -23,6 +23,7 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#trades` `#competition`
 - [Binance Public Data](https://data.binance.vision/) +[repo](https://github.com/binance/binance-public-data/) `#trades` `#spots` `#futures` `#binance` `#crypto`
+- [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `#data-list` `#community`
 
 ## Open Data
 
@@ -32,7 +33,7 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption) `#climate`
 - [NASA NEX](https://registry.opendata.aws/nasanex/) `#climate`
 - [Norges Bank Investment Management](https://www.nbim.no/en/the-fund/investments/#/)
-
+- [Global Ship Tracking Intelligence](https://www.marinetraffic.com/en/ais/home/centerx:152.9/centery:30.1/zoom:2), AIS Marine Traffic `#ship` `#geo`
 
 ## Service APIs
 
@@ -57,7 +58,7 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Markets Stack](https://marketstack.com/documentation) `#market-data`
 - [FTX API](https://docs.ftx.com/#overview) `#crypto` `#algo-trading` `#market-data` `#spot` `#futures`
 - [Coin Metrics Data Encyclopedia API](https://docs.coinmetrics.io/) `#crypto` `#market-data` `#on-chain-data`
-
+- [Sustainalytics API](https://www.sustainalytics.com/api-data-feeds#api) `#ESG`
 
 ## News Aggregators
 
@@ -66,27 +67,6 @@ List of datasets and service APIs with __Financial Markets__ data.
 - [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news)
 - [Google Trends](https://trends.google.com/) `#news`
 
-
 ## Analytics and Dashboards
 
 - [IntoTheBlock](https://app.intotheblock.com/) `#crypto` `#market-data` `#on-chain-data` `#mining` `#social`
-
-
-## Data Feeds and Community Threads
-
-- [World Bank Data](https://data.worldbank.org/) `banking` `#data-feed`
-- [Kaggle Datasets](https://www.kaggle.com/datasets) `#data-feed`
-- [World Bank Open Data](https://data.worldbank.org/) `#data-feed`
-- [Google public data](https://www.google.com/publicdata/directory) `#data-feed`
-- [Google dataset search](https://datasetsearch.research.google.com/) `#data-feed`
-- [Registry of Open Data on AWS](https://registry.opendata.aws/) `#data-feed`
-- [R datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html) `#data-feed`
-- [Stanford Network Analysis Project](http://snap.stanford.edu/index.html) `#data-feed` `#network-analysis`
-- [Paperswithcode Datasets](https://www.paperswithcode.com/datasets) `#data-feed`
-- [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `thread` `#community`
-- [Reddit Open Data](https://www.reddit.com/r/opendata/)
-- [AwesomeData](https://github.com/awesomedata) `#data-list` `#community`
-- [GitHub API](https://docs.github.com/en/rest/overview) `#developer-activity` `#community`
-- [StackExchange API](https://api.stackexchange.com/docs) `#community`
-- [Google Trends](https://trends.google.com/) `#news`
-- [github.com/public-apis](https://github.com/public-apis/public-apis) `#index` `#community`
