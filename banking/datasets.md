@@ -4,7 +4,7 @@ List of __Retail Banking__ datasets.
 
 ## Public Datasets
 
-1. [Synthetic Financial Datasets for Fraud Detection](https://www.kaggle.com/ntnu-testimon/paysim1).
+1. [Synthetic Financial Datasets for Fraud Detection](https://www.kaggle.com/ealaxi/paysim1).
 2. [Default of Credit Card Clients Dataset](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset).
 3. [Bank Marketing Dataset](https://www.kaggle.com/janiobachmann/bank-marketing-dataset).
 4. [Bank Loan Status Dataset](https://www.kaggle.com/zaurbegiev/my-dataset).
