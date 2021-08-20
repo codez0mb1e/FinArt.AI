@@ -18,7 +18,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Binance Full History](https://www.kaggle.com/jorijnsmit/binance-full-history) `#crypto` `#binance` `#1min-candle`
 - [Binance Bitcoin Futures Price](https://www.kaggle.com/billqi/binance-bitcoin-futures-price-10s-intervals) `#crypto` `#binance` `#futures` `#10sec-candle`
 - [Binance real time trades BTCUSDT ETHUSDT](https://www.kaggle.com/rossr61938/binance-real-time-trades-btcusdt-ethusdt) `#crypto` `#binance`
-- [Reddit /r/cryptocurrency](https://www.kaggle.com/nickreinerink/reddit-rcryptocurrency) `#crypto` `#social`
+- [Reddit /r/cryptocurrency](https://www.kaggle.com/nickreinerink/reddit-rcryptocurrency) `#crypto` `#community`
 - [Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment` `#competition`
 - [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#trades` `#competition`
