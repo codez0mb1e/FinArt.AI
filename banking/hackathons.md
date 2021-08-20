@@ -2,7 +2,6 @@
 
 _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 
-
 ## 2021
 
 - [Alfa Battle 2.0](https://boosters.pro/championship/alfabattle2_sand/overview) ([post on habr](https://habr.com/ru/company/alfa/blog/551130/)):
