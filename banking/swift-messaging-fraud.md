@@ -13,7 +13,7 @@ General information about SWIFT and SWIFT protocol:
 
 ## SWIFT Fraud Cases
 
-Information about fraud cases and main anti-fraud approaches related to B2B finanacial crimes:
+Information about fraud cases and main anti-fraud approaches related to B2B financial crimes:
 
 - https://www.swift.com/your-needs/financial-crime-cyber-security/financial-fraud/types-fraud
 - https://www.netguardians.ch/fraud-cases/
