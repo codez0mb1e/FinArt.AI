@@ -1,7 +1,7 @@
 
 # Online Courses
 
-*List of the online courses related to financial markets*
+_List of the online courses related to Financial markets._
 
 - Financial Engineering and Risk Management [Part I](https://www.coursera.org/learn/financial-engineering-1#syllabus) and [Part II](https://www.coursera.org/learn/financial-engineering-2#syllabus), Coursera.
 - [Econometrics](https://ru.coursera.org/learn/ekonometrika#syllabus), Coursera.

@@ -1,7 +1,7 @@
 
 # Data Privacy
 
-__Data Privacy__ is one of the main challenges of intellectual data analysis, especially in finance.
+__Data Privacy__ is one of the main challenges of intellectual Data analysis, especially in Finance.
 
 Data Privacy research papers:
 

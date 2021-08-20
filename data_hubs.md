@@ -1,6 +1,6 @@
 # Data Hubs
 
-***List of hubs with various datasets.***
+_List of hubs with various datasets._
 
 ## Data Feeds
 

@@ -1,6 +1,6 @@
 ﻿# AI in Banking
 
-List of __AI cases in Retail Banking__.
+_List of __AI cases in Retail Banking__._
 
 ![AI in Retail Banking](https://static.0xcode.in/images/ai-in-banking.png)
 

@@ -1,7 +1,7 @@
 
 # AI in Insurance
 
-List of __AI cases in Insurance companies__.
+_List of __AI cases in Insurance companies__._
 
 ## Customer Loyalty and Churn
 

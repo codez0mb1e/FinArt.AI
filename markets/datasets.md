@@ -1,7 +1,7 @@
 
 # Datasets and APIs
 
-***List of datasets and service APIs with __Financial Markets__ data.***
+_List of datasets and service APIs with __Financial Markets__ data._
 
 ## Datasets
 

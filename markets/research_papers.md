@@ -1,7 +1,7 @@
 
 # Research papers
 
-List of research papers and books about __AI cases in Financial Markets__.
+_List of research papers and books about __AI cases in Financial Markets__._
 
 ## Portfolio Optimization and Management
 

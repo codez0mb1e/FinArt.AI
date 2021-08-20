@@ -1,6 +1,6 @@
 # Conferences
 
-List of conferences with topics __AI cases in Banking__.
+_List of conferences with topics __AI cases in Banking__._
 
 ## Russian conferences
 

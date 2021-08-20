@@ -1,7 +1,7 @@
 
 # Portfolio Optimization Implementations
 
-*List of programming frameworks and web services that have rich implementation of Portfolio Optimization approaches.*
+_List of programming frameworks and web services that have rich implementation of Portfolio Optimization approaches._
 
 ## Python
 

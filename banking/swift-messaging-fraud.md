@@ -1,6 +1,6 @@
 # SWIFT Messaging Fraud
 
-***List of useful resources related to SWIFT Messaging Fraud***
+_List of useful resources related to the SWIFT Messaging Fraud topic._
 
 ## General information
 
