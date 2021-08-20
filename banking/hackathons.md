@@ -2,6 +2,7 @@
 
 _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 
+
 ## 2021
 
 - [Alfa Battle 2.0](https://boosters.pro/championship/alfabattle2_sand/overview) ([post on habr](https://habr.com/ru/company/alfa/blog/551130/)):
@@ -9,11 +10,12 @@ _List of Hackathons and competitions related to __AI cases in Retail Banking__._
   - Case #2: customer default prediction.
 - [Data Fusion Contest](https://boosters.pro/championship/data_fusion/overview)
   - The product category prediction
-  - Extracting the product brand from the product name.
+  - Extracting the product brand from the product name
+- [ISO 20022 Hackathon](https://iso20022hackathon.hackerearth.com/ru/): [SWIFT Fraud Prevention](swift-messaging-fraud).
 
 ## 2019
 
-- [Rosbank Happy Data Year](https://boosters.pro/championship/rosbank2/overview): predict the popularity index of geolocation for placing an ATM network device
+- [Rosbank Happy Data Year](https://boosters.pro/championship/rosbank2/overview): predict the popularity index of geo-location for placing an ATM network device
 - [Sibur Challenge 2019](https://sibur.ai-community.com/competitions/3): PET and rubber price forecast.
 - [Data Like Contest](https://vc.ru/data-like): predicting customer reaction to a  user story ([solution](https://github.com/codez0mb1e/tinkoff-data-like-contest)).
 - [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction): identify who will make a transaction.
@@ -32,7 +34,7 @@ _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 
 ## 2017
 
-- [Tinkoff Data Science Challenge](https://boosters.pro/championship/tinkoff1/overview): choice of Tinkoff bank credit proposals and restore the position of the merchant.
+- [Tinkoff Data Science Challenge](https://boosters.pro/championship/tinkoff1/overview): choice of Tinkoff Bank credit proposals and restore the position of the merchant.
 - [Sberbank Russian Housing Market](https://www.kaggle.com/c/sberbank-russian-housing-market): automation of commercial real estate valuation.
 - [Sberbank Data Science Journey 2017](https://github.com/sberbank-ai/data-science-journey-2017): question relevance classification and building a question answering system.
 
