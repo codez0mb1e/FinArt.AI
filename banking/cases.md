@@ -25,6 +25,11 @@ _List of __AI cases in Retail Banking__._
   - Chargebacks/malicious payment chains prevention
 - [SWIFT messaging fraud](swift-messaging-fraud.md) prevention.
 
+### Loans Fraud
+
+- Сonsumer loan fraud detection
+- Mortgage fraud detection 
+
 ### Oversight and Insight
 
 - Insider detection
