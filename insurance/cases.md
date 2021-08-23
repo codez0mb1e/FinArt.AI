@@ -23,8 +23,6 @@ _List of __AI cases in Insurance companies__._
 * For accident-free (emergency) history
 * By driving style `#telematics`.
 
-### Fraud prevention
-
 ### Tariffs/insurance premium optimization
 
 * Restoring competitors' tariffs (pricing) guidelines
@@ -35,6 +33,12 @@ _List of __AI cases in Insurance companies__._
 * Insurance product recommendations
 * Life triggers searching:
     * e.g., buying a car, housing, or giving birth to a child.
+
+## Fraud prevention
+
+* Automobile insurance fraud detection
+* Mortgage insurance fraud detection
+* Healtcare insurance fraud detection.
 
 ## Segmentation
 
