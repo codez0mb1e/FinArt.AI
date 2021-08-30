@@ -10,6 +10,7 @@ Packages:
 - [PortfolioLab](https://hudson-and-thames-portfoliolab.readthedocs-hosted.com/en/latest/)
 - [DeepDow](https://deepdow.readthedocs.io/en/latest/#)
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)
+- [Quantopian Pyfolio](https://github.com/quantopian/pyfolio)
 
 Repos:
 
