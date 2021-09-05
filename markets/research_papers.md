@@ -48,7 +48,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 
 - Zihao Zhang, et. al. [Deep Reinforcement Learning for Trading](https://arxiv.org/abs/1911.10107)
 
-
+- Xiao Li, Weili Wu. [A Blockchain Transaction Graph based Machine Learning Method for Bitcoin Price Prediction](https://arxiv.org/abs/2008.09667)
 
 ## Stock Trend Prediction
 
