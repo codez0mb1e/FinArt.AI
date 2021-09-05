@@ -1,9 +1,11 @@
 
-# Portfolio Optimization Implementations
+# Portfolio Optimization: Useful Frameworks
 
 _List of programming frameworks and web services that have rich implementation of Portfolio Optimization approaches._
 
-## Python
+## Portfolio Optimization
+
+### Python
 
 Packages:
 
@@ -17,7 +19,7 @@ Repos:
 - [Deep Portfolio Management](https://github.com/Rachnog/Deep-Portfolio-Management)
 - [Reinforcement learning in portfolio management](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-)
 
-## R
+### R
 
 Packages:
 
@@ -30,6 +32,18 @@ Packages:
   - [Custom Moment and Objective Functions](https://cran.r-project.org/web/packages/PortfolioAnalytics/vignettes/custom_moments_objectives.pdf) package
 - Time series analysis and forecasting: [tsibble](https://r-analytics.blogspot.com/2019/12/tsibble.html), [smooth](https://cran.r-project.org/web/packages/smooth/smooth.pdf) and [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) packages
 
-## REST API
+### REST API
 
 - [PortfolioOptimizer.io](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization)
+
+## Forecasting frameworks
+
+### Python
+
+- [Facebook Kats](https://github.com/facebookresearch/Kats)
+- [Prophet](https://github.com/facebook/prophet)
+- [GluonTS](https://ts.gluon.ai/)
+
+### R
+
+- 
