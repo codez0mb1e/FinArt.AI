@@ -7,11 +7,11 @@ _List of research papers and books about __AI cases in Financial Markets__._
 
 - Zhipeng Liang, et. al. [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/pdf/1808.09940.pdf) [[code]](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-) [[code]](https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-) `#RL` `#DDPG` `#PPO` `#PG` `#AdversarialLearning` `#StockMarket` `#China` `#CNN` `#SharpeRatio`
 
-- Zhengyao Jiang, et. al. [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059v2) [[code]](https://github.com/ZhengyaoJiang/PGPortfolio) [[other repos]](https://paperswithcode.com/paper/a-deep-reinforcement-learning-framework-for) `#RL` `#LSTM` `#CNN` `#EIIE` `#BTC` `#CryptoExchange`
+- Zhengyao Jiang, et. al. [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059v2) [[code]](https://github.com/ZhengyaoJiang/PGPortfolio) [[other repos]](https://paperswithcode.com/paper/a-deep-reinforcement-learning-framework-for) `#RL` `#LSTM` `#CNN` `#EIIE` `#BTC` `#crypto`
 
 - Olivier Jin, Hamza El-Saawy. [Portfolio Management using Reinforcement Learning](http://cs229.stanford.edu/proj2016/report/JinElSaawy-PortfolioManagementusingReinforcementLearning-report.pdf) `#RL` `#DQL` `#BetaIndex`  `#SharpeRatio` `#StockMarket` `#SnP500`
 
-- Wonsup Shin, et. al. [Automatic Financial Trading Agent for Low-risk Portfolio Management using Deep Reinforcement Learning](https://arxiv.org/abs/1909.03278v1) `#RL` `#DQL` `#CNN` `#CryptoExchange` `#binance` `#USDT`
+- Wonsup Shin, et. al. [Automatic Financial Trading Agent for Low-risk Portfolio Management using Deep Reinforcement Learning](https://arxiv.org/abs/1909.03278v1) `#RL` `#DQL` `#CNN` `#crypto` `#binance` `#USDT`
 
 - Derek Snow. [Machine Learning in Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) [[repo]](https://github.com/firmai/machine-learning-asset-management) `#RL` `#SupervisedLearning` `#UnsupervisedLearning` `#UsefulLinks`
 
@@ -24,6 +24,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - Gang Huang, et. al. [Deep reinforcement learning for portfolio management based on the empirical study of chinese stock market](https://arxiv.org/abs/2012.13773)
 
 - Matthew Dixon, Igor Halperin. [G-Learner and GIRL: Goal Based Wealth Management with Reinforcement Learning](https://arxiv.org/abs/2002.10990)
+
 
 
 ## Algorithmic trading and execution
@@ -48,7 +49,9 @@ _List of research papers and books about __AI cases in Financial Markets__._
 
 - Zihao Zhang, et. al. [Deep Reinforcement Learning for Trading](https://arxiv.org/abs/1911.10107)
 
-- Xiao Li, Weili Wu. [A Blockchain Transaction Graph based Machine Learning Method for Bitcoin Price Prediction](https://arxiv.org/abs/2008.09667)
+- Xiao Li, Weili Wu. [A Blockchain Transaction Graph based Machine Learning Method for Bitcoin Price Prediction](https://arxiv.org/abs/2008.09667) `#graph` `#crypto` `#blockchain-info` `#price-prediction`
+
+
 
 ## Stock Trend Prediction
 
@@ -105,6 +108,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - [Quantitative Finance: recent submissions](https://arxiv.org/list/q-fin/recent), arxiv.org.
 
 - [Algorithmic trading: recent publications](https://www.paperdigest.org/article/?id=algorithmic-trading), paperdigest.org
+
 
 
 ## Books
