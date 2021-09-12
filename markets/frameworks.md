@@ -1,7 +1,7 @@
 
 # Portfolio Optimization: Useful Frameworks
 
-_List of programming frameworks and web services that have rich implementation of Portfolio Optimization approaches._
+_List of programming frameworks, libraries, and web services that have rich implementation of Portfolio Optimization approaches._
 
 ## Portfolio Optimization
 
@@ -13,6 +13,9 @@ Packages:
 - [DeepDow](https://deepdow.readthedocs.io/en/latest/#)
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)
 - [Quantopian Pyfolio](https://github.com/quantopian/pyfolio)
+- [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/) `#trading`
+- [SciPy](https://towardsdatascience.com/portfolio-optimization-with-scipy-aa9c02e6b937) `#core`
+- [ZipLine](https://github.com/quantopian/zipline)
 
 Repos:
 
@@ -43,7 +46,4 @@ Packages:
 - [Facebook Kats](https://github.com/facebookresearch/Kats)
 - [Prophet](https://github.com/facebook/prophet)
 - [GluonTS](https://ts.gluon.ai/)
-
-### R
-
-- 
+- [FEDOT: AutoML for time series](https://github.com/nccr-itmo/FEDOT#examples--tutorials)
