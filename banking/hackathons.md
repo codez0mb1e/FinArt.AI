@@ -10,7 +10,8 @@ _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 - [Data Fusion Contest](https://boosters.pro/championship/data_fusion/overview)
   - The product category prediction
   - Extracting the product brand from the product name
-- [ISO 20022 Hackathon](https://iso20022hackathon.hackerearth.com/ru/): [SWIFT Fraud Prevention](swift-messaging-fraud).
+- [ISO 20022 Hackathon](https://iso20022hackathon.hackerearth.com/ru/): [SWIFT Fraud Prevention](swift-messaging-fraud)
+- [Raifhack DS](https://raifhack.ru/): estimates of the value of commercial real estate.
 
 ## 2019
 
