@@ -17,3 +17,7 @@ _List of __Retail Banking__ datasets._
 1. [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv) `#credit-card` `#fraud`
 1. [IEEE-CIS Fraud Detection](https://www.kaggle.com/niangmohamed/ieeecis-fraud-detection?select=train_transaction.csv) `#fraud`
 1. [Banking detection and financial](https://www.kaggle.com/iabhishekbhardwaj/fraud-detection) `#fraud`
+1. [Credit Card Dataset](https://data.world/vlad/credit-card-fraud-detection) `#fraud` `#credit-card`
+1. [Predict Chargeback Frauds](https://www.kaggle.com/dmirandaalves/predict-chargeback-frauds-payment) `#fraud` `#credit-card`
+1. [Bank Transaction Data](https://www.kaggle.com/apoorvwatsky/bank-transaction-data) `#transaction`
+1. [Fraud detection bank dataset](https://www.kaggle.com/volodymyrgavrysh/fraud-detection-bank-dataset-20k-records-binary) `#fraud` `#transaction` `#bank`
