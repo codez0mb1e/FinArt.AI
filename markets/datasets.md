@@ -24,6 +24,13 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#trades` `#competition`
 - [Binance Public Data](https://data.binance.vision/) +[repo](https://github.com/binance/binance-public-data/) `#trades` `#spots` `#futures` `#binance` `#crypto`
 - [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `#data-list` `#community`
+- [Elliptic Data Set](https://www.kaggle.com/ellipticco/elliptic-data-set) `#bitcoin` `#transaction` `#fraud`
+- [Bitcoin Blockchain Historical Data](https://www.kaggle.com/bigquery/bitcoin-blockchain) `#bitcoin` `#blocks`
+- [Public Blockchain Datasets in BigQuery](https://github.com/blockchain-etl/public-datasets) `#crypto` `#datasets` `#blocks
+- [Bitcoin Tweets](https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets) `#bitcoin` `#tweets` `#sentiment` `#live`
+- [Bitcoin Tweets - 16M tweets](https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329) `#bitcoin` `#tweets` `#sentiment`
+- [Ethereum Blockchain](https://www.kaggle.com/bigquery/ethereum-blockchain) `#ETH` `#blocks` `#live`
+- [400+ crypto currency pairs at 1-minute resolution](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) `#crypto` `#trades` `#1min-candle` `#live`
 
 ## Open Data
 
@@ -59,6 +66,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [FTX API](https://docs.ftx.com/#overview) `#crypto` `#algo-trading` `#market-data` `#spot` `#futures`
 - [Coin Metrics Data Encyclopedia API](https://docs.coinmetrics.io/) `#crypto` `#market-data` `#on-chain-data`
 - [Sustainalytics API](https://www.sustainalytics.com/api-data-feeds#api) `#ESG`
+- [Blockchain ETL](https://github.com/blockchain-etl) `#crypto` `#blocks` `#ETL` `#OSS`
 
 ## News Aggregators
 
