@@ -9,26 +9,29 @@ _List of __AI cases in Retail Banking__._
 ### Payments Security
 
 - Credit card fraud detection:<sup>[CONF](conferences.md), [HACK](hackathons.md)</sup>
-  - Card-present antifraud
-  - Card-not-present antifraud
-- P2P (Card-to-Card) antifraud<sup>[CONF](conferences.md)</sup>
+  - Card-present anti-fraud
+  - Card-not-present anti-fraud
+- P2P (Card-to-Card) anti-fraud<sup>[CONF](conferences.md)</sup>
+  - Tracking P2P-payments graph
 - Frictionless payments:
   - Payment risk scoring for 3DS 2.0
   - E-comm payments conversion increase
   - Avoiding 'Black Friday' syndrome
-- Anti-laundering:
+- Anti-money laundering (AML):
   - Detecting money laundering patterns<sup>[CONF](conferences.md)</sup>
 - Anomaly detection:
   - Anomaly ATM/POS activity detection
   - Anomaly mobile-/web-bank activity detection
-- Fraud patterns detection:
+- Fraudster networks detection:
   - Chargebacks/malicious payment chains prevention
+  - Bot devices networks detection
+  - Fraudsters' IP networks detection
 - [SWIFT messaging fraud](swift-messaging-fraud.md) prevention.
 
 ### Loans Fraud
 
-- Сonsumer loan fraud detection
-- Mortgage fraud detection 
+- Consumer loan fraud detection
+- Mortgage fraud detection.
 
 ### Oversight and Insight
 
@@ -189,4 +192,4 @@ _List of __AI cases in Retail Banking__._
   - inside the bank: 
   - e.g., let's buy $100 from my ruble debit card
   - outside the bank (integration with Cortana, Siri, etc.):
-  - e.g., let's order a Caesar pizza on a thin dough in Papa Beppe by 9 PM.
+  - e.g., let's order a Caesar pizza on a thin dough in 'Papa Peppe' by 9 PM.
