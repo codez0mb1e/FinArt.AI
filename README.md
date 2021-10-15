@@ -1,13 +1,15 @@
 
 # AI in Finance
 
-_The purpose of this project is to describe the cases of application of __Artificial Intelligence (AI)__ technologies in the __financial sector__._
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+A curated list of applications of __Machine Learning in Finance__ that contains _research papers_, _financial data sets_, and so on.
 
 ![AI in Finance](https://static.0xcode.in/images/ai-in-finance.png?v=2)
 
 [Large image](https://static.0xcode.in/images/ai-in-finance.large.png)
 
-## AI in __Banking__
+## ML in __Banking__
 
 Lists:
 
@@ -16,7 +18,7 @@ Lists:
 - [Hackathons and competitions](banking/hackathons.md)
 - [Conferences](banking/conferences.md).
 
-## AI in __Financial Markets__
+## ML in __Financial Markets__
 
 Lists:
 
@@ -25,7 +27,7 @@ Lists:
 - [Programming frameworks](markets/frameworks.md)
 - [Online courses](markets/courses.md).
 
-## AI cases in __Insurance__
+## ML cases in __Insurance__
 
 Lists:
 
@@ -35,5 +37,5 @@ Lists:
 
 Lists:
 
-- [Data Hubs](data_hubs.md).
+- [Data Hubs](data_hubs.md)
 - [Data Privacy](data_privacy.md).
