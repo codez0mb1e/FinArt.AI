@@ -48,3 +48,4 @@ Packages:
 - [GluonTS](https://ts.gluon.ai/)
 - [FEDOT: AutoML for time series](https://github.com/nccr-itmo/FEDOT#examples--tutorials)
 - [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)
+- [ETNA](https://etna.tinkoff.ru/)
