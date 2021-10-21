@@ -33,19 +33,21 @@ Packages:
   - [Advanced Moment Estimation & Optimization with PortfolioAnalytics](https://rossb34.github.io/PortfolioAnalyticsPresentation2015/#1) slides
   - [Tidy Portfoliomanagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/s-4portfolios.html#mean-cvar-portfolios) book
   - [Custom Moment and Objective Functions](https://cran.r-project.org/web/packages/PortfolioAnalytics/vignettes/custom_moments_objectives.pdf) package
-- Time series analysis and forecasting: [tsibble](https://r-analytics.blogspot.com/2019/12/tsibble.html), [smooth](https://cran.r-project.org/web/packages/smooth/smooth.pdf) and [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) packages
+
 
 ### REST API
 
 - [PortfolioOptimizer.io](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization)
 
-## Forecasting frameworks
+## Time Series Analysis and Forecasting Frameworks
 
-### Python
-
-- [Facebook Kats](https://github.com/facebookresearch/Kats)
-- [Prophet](https://github.com/facebook/prophet)
-- [GluonTS](https://ts.gluon.ai/)
-- [FEDOT: AutoML for time series](https://github.com/nccr-itmo/FEDOT#examples--tutorials)
-- [PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)
-- [ETNA](https://etna.tinkoff.ru/)
+- [Facebook Kats](https://facebookresearch.github.io/Kats/) `#python`
+- [Prophet](https://github.com/facebook/prophet) `#python` `#R`
+- [GluonTS](https://ts.gluon.ai/) `#python`
+- [FEDOT: AutoML for time series](https://fedot.readthedocs.io/en/latest/) `#python`
+- [PyTorch Forecasting](https://pytorch-forecasting.readthedocs.io/en/latest/) `#python`
+- [ETNA](https://etna.tinkoff.ru/) `#python`
+- [timetk](https://business-science.github.io/timetk/) `#R`
+- [tsibble](https://r-analytics.blogspot.com/2019/12/tsibble.html) `#R`
+- [smooth](https://cran.r-project.org/web/packages/smooth/smooth.pdf) `#R`
+- [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) `#R`
