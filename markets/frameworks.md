@@ -16,6 +16,9 @@ Packages:
 - [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/) `#trading`
 - [SciPy](https://towardsdatascience.com/portfolio-optimization-with-scipy-aa9c02e6b937) `#core`
 - [ZipLine](https://github.com/quantopian/zipline)
+- [Riskfolio-Lib](https://riskfolio-lib.readthedocs.io/en/latest/)
+- [Empyrial](https://empyrial.gitbook.io/empyrial/)
+- [](https://github.com/VivekPa/OptimalPortfolio)
 
 Repos:
 
