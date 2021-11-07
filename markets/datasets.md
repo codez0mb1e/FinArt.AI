@@ -70,8 +70,23 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Sustainalytics API](https://www.sustainalytics.com/api-data-feeds#api) `#ESG`
 - [Blockchain ETL](https://github.com/blockchain-etl) `#crypto` `#blocks` `#ETL` `#OSS`
 - [Blockchain.com API](https://www.blockchain.com/api) `#crypto` `#market-data` `#on-chain-data` `#analytics`
+
+## Analytics and Dashboards
+
 - [Blockchain.com explorer](https://www.blockchain.com/explorer) `#crypto` `#on-chain-data` `#explorer`
 - [ChainQuery `getrawtransaction`](https://chainquery.com/bitcoin-cli/getrawtransaction) `#crypto` `#on-chain-data` `#explorer`
+- [EtherScan](https://etherscan.io/) `#crypto` `#ETH` `#on-chain-data` `#explorer`
+- [CoinMarketCap blockchain explorer](https://blockchain.coinmarketcap.com/) `#crypto` `#on-chain-data` `#explorer`
+
+- [CoinMarketCap](https://coinmarketcap.com/) `#crypto` `#market-data``#analytics`
+- [ContractMarketCap](https://contractmarketcap.com/) `#crypto` `#futures` `#analytics`
+
+- [Public Companies that Own Bitcoin](https://www.buybitcoinworldwide.com/treasuries/) `#crypto` `#stocks`
+- [GlassNode Studio](https://studio.glassnode.com/metrics) `#crypto` `#analytics` `#dashboard`
+- [IntoTheBlock](https://app.intotheblock.com/) `#crypto` `#market-data` `#on-chain-data` `#mining` `#social`
+- [CoinGlass: Bitcoin Open Interest](https://www.coinglass.com/BitcoinOpenInterest) `#crypto` `#futures` `#analytics` `#dashboard`
+- [DeFiLlama: Locked Value](https://defillama.com/chains) `#crypto` `#DeFi` `#analytics` `#dashboard`
+- [Messari: DeFi Assets](https://messari.io/screener/defi-assets-7EE8EDB1) `#crypto` `#DeFi` `#analytics` `#dashboard`
 
 ## News Aggregators
 
@@ -79,7 +94,3 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Bloomberg: Microsoft news example](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
 - [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news)
 - [Google Trends](https://trends.google.com/) `#news`
-
-## Analytics and Dashboards
-
-- [IntoTheBlock](https://app.intotheblock.com/) `#crypto` `#market-data` `#on-chain-data` `#mining` `#social`
