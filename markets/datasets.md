@@ -31,6 +31,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Bitcoin Tweets - 16M tweets](https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329) `#bitcoin` `#tweets` `#sentiment`
 - [Ethereum Blockchain](https://www.kaggle.com/bigquery/ethereum-blockchain) `#ETH` `#blocks` `#live`
 - [400+ crypto currency pairs at 1-minute resolution](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) `#crypto` `#trades` `#1min-candle` `#live`
+- [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting/data) #crypto` `#trades`
 
 ## Open Data
 
