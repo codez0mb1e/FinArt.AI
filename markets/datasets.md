@@ -32,6 +32,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Ethereum Blockchain](https://www.kaggle.com/bigquery/ethereum-blockchain) `#ETH` `#blocks` `#live`
 - [400+ crypto currency pairs at 1-minute resolution](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) `#crypto` `#trades` `#1min-candle` `#live`
 - [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting/data) #crypto` `#trades`
+- [Core US Fundamentals Data](https://data.nasdaq.com/databases/SF1/data) `#fundamental` `#US`
 
 ## Open Data
 
@@ -68,6 +69,9 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Coin Metrics Data Encyclopedia API](https://docs.coinmetrics.io/) `#crypto` `#market-data` `#on-chain-data`
 - [Sustainalytics API](https://www.sustainalytics.com/api-data-feeds#api) `#ESG`
 - [Blockchain ETL](https://github.com/blockchain-etl) `#crypto` `#blocks` `#ETL` `#OSS`
+- [Blockchain.com API](https://www.blockchain.com/api) `#crypto` `#market-data` `#on-chain-data` `#analytics`
+- [Blockchain.com explorer](https://www.blockchain.com/explorer) `#crypto` `#on-chain-data` `#explorer`
+- [ChainQuery `getrawtransaction`](https://chainquery.com/bitcoin-cli/getrawtransaction) `#crypto` `#on-chain-data` `#explorer`
 
 ## News Aggregators
 
