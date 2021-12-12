@@ -1,7 +1,7 @@
 
-# Portfolio Optimization: Useful Frameworks
+# Algorithmic Trading & Portfolio Optimization: Useful Frameworks
 
-_List of programming frameworks, libraries, and web services that have rich implementation of Portfolio Optimization approaches._
+_List of programming frameworks, libraries, and web services that have rich implementation of Portfolio Optimization approaches & Algorithmic Trading._
 
 ## Portfolio Optimization
 
@@ -13,15 +13,15 @@ Packages:
 - [DeepDow](https://deepdow.readthedocs.io/en/latest/#)
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/en/latest/)
 - [Quantopian Pyfolio](https://github.com/quantopian/pyfolio)
-- [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/) `#trading`
 - [SciPy](https://towardsdatascience.com/portfolio-optimization-with-scipy-aa9c02e6b937) `#core`
 - [ZipLine](https://github.com/quantopian/zipline)
-- [Riskfolio-Lib](https://riskfolio-lib.readthedocs.io/en/latest/)
+- [Riskfolio Lib](https://riskfolio-lib.readthedocs.io/en/latest/)
 - [Empyrial](https://empyrial.gitbook.io/empyrial/)
-- [](https://github.com/VivekPa/OptimalPortfolio)
+- [Okama](https://okama.readthedocs.io/en/master/index.html)
 
-Repos:
+Repositories:
 
+- [VivekPa Optimal Portfolio](https://github.com/VivekPa/OptimalPortfolio)
 - [Deep Portfolio Management](https://github.com/Rachnog/Deep-Portfolio-Management)
 - [Reinforcement learning in portfolio management](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-)
 
@@ -34,15 +34,24 @@ Packages:
   - [Official Repo & Demos](https://github.com/R-Finance/PortfolioAnalytics/tree/master/demo), github.com
   - [Portfolio starter kit](https://www.optionstocksmachines.com/post/portfolio-starter-kit/) post
   - [Advanced Moment Estimation & Optimization with PortfolioAnalytics](https://rossb34.github.io/PortfolioAnalyticsPresentation2015/#1) slides
-  - [Tidy Portfoliomanagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/s-4portfolios.html#mean-cvar-portfolios) book
+  - [Tidy PortfolioManagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/s-4portfolios.html#mean-cvar-portfolios) book
   - [Custom Moment and Objective Functions](https://cran.r-project.org/web/packages/PortfolioAnalytics/vignettes/custom_moments_objectives.pdf) package
-
 
 ### REST API
 
 - [PortfolioOptimizer.io](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization)
 
-## Time Series Analysis and Forecasting Frameworks
+## Algorithmic Trading
+
+### Repositories
+
+- [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/)
+- [AIAlpha](https://github.com/VivekPa/AIAlpha) `#deep-leaning` `#price-prediction`
+- [Hummingbot](https://github.com/CoinAlpha/hummingbot) `#crypto` `#market-making`
+
+## Tools
+
+### Time Series Analysis and Forecasting Frameworks
 
 - [Facebook Kats](https://facebookresearch.github.io/Kats/) `#python`
 - [Prophet](https://github.com/facebook/prophet) `#python` `#R`
