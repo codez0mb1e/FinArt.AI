@@ -3,6 +3,40 @@
 
 _List of datasets and service APIs with __Financial Markets__ data._
 
+## Type of data sources
+
+1. Market data
+  - Spot:
+    - Order books
+    - Trades
+  - Derivatives:
+    - Open interest
+    - Fear/greed index
+1. Financial analysis
+  - Technical analysis
+  - Fundamental analysis
+  - Ratings
+1. Open Data
+  - Company Fillings
+  - Macro-economic data
+  - ESG related reports (climate, carbon emission)
+1. News
+  - News sentiment
+  - News entities graph
+  - Trends
+1. Public social networks
+  - Twitter
+  - reddit
+1. Private social networks
+  - Telegram channels
+  - Discord chats
+1. Activity
+  - On-chain activity
+  - Project development activity
+  - Vulnerability detection activity
+  - Insiders activity
+  - Cargo/traffic activity
+
 ## Datasets
 
 - [CBOE](http://cfe.cboe.com/market-data/) `#vix` `#futures`
@@ -70,6 +104,8 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Sustainalytics API](https://www.sustainalytics.com/api-data-feeds#api) `#ESG`
 - [Blockchain ETL](https://github.com/blockchain-etl) `#crypto` `#blocks` `#ETL` `#OSS`
 - [Blockchain.com API](https://www.blockchain.com/api) `#crypto` `#market-data` `#on-chain-data` `#analytics`
+- [EtherScan](https://etherscan.io/apis) `#crypto` `#ETH` `#on-chain-data`
+- [Whale Alert API](https://docs.whale-alert.io/#introduction) `#crypto` `#on-chain-data`
 
 ## Analytics and Dashboards
 
@@ -87,6 +123,11 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [CoinGlass: Bitcoin Open Interest](https://www.coinglass.com/BitcoinOpenInterest) `#crypto` `#futures` `#analytics` `#dashboard`
 - [DeFiLlama: Locked Value](https://defillama.com/chains) `#crypto` `#DeFi` `#analytics` `#dashboard`
 - [Messari: DeFi Assets](https://messari.io/screener/defi-assets-7EE8EDB1) `#crypto` `#DeFi` `#analytics` `#dashboard`
+- [Alternative Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) `#crypto`
+- [Glassnode Insights](https://insights.glassnode.com/) `#crypto` `#insights` `#reports`
+- [Skew Analytics](https://skew.com/) `#crypto` `#analytics` `#futures` `#spot`
+- [Galaxy Digital Research](https://www.galaxydigital.io/research/) `#crypto` `#analytics` `DeFi` `#reports`
+
 
 ## News Aggregators
 
