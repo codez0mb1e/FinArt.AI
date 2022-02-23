@@ -18,6 +18,7 @@ Packages:
 - [Riskfolio Lib](https://riskfolio-lib.readthedocs.io/en/latest/)
 - [Empyrial](https://empyrial.gitbook.io/empyrial/)
 - [Okama](https://okama.readthedocs.io/en/master/index.html)
+- [Qlib](https://github.com/microsoft/qlib)
 
 Repositories:
 
@@ -37,9 +38,14 @@ Packages:
   - [Tidy PortfolioManagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/s-4portfolios.html#mean-cvar-portfolios) book
   - [Custom Moment and Objective Functions](https://cran.r-project.org/web/packages/PortfolioAnalytics/vignettes/custom_moments_objectives.pdf) package
 
+  Lists:
+
+  - [Empirical Finance List](https://cran.r-project.org/web/views/Finance.html)
+
 ### REST API
 
 - [PortfolioOptimizer.io](https://docs.portfoliooptimizer.io/index.html#tag--Portfolio-Optimization)
+- [PortfoliosLab](https://portfolioslab.com/tools)
 
 ## Algorithmic Trading
 
