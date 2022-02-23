@@ -2,6 +2,12 @@
 
 _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 
+
+## 2022
+
+- [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction/data?select=train.csv): predictions against future market data.
+- [Data Fusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions): identify bank customers using transactions behavior and click-stream activity in Web.
+
 ## 2021
 
 - [Alfa Battle 2.0](https://boosters.pro/championship/alfabattle2_sand/overview) ([post on habr](https://habr.com/ru/company/alfa/blog/551130/)):
