@@ -64,7 +64,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Two Sigma Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data) `#news` `#sentiment` `#competition`
 - [Hacker News Datasets](https://www.kaggle.com/search?q=Hacker+News+in%3Adatasets) `#hackers`
 - [Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data) `#orderbook` `#competition`
-- [Binance Public Data](https://data.binance.vision/) `#spots` `#futures` `#binance` `#crypto`
+- [Binance Public Data](https://data.binance.vision/) `#spot` `#futures` `#binance` `#crypto`
   - [Data landing](https://www.binance.com/en/landing/data)
   - [Github repo](https://github.com/binance/binance-public-data/)
 - [Quora: publicly available market data](https://www.quora.com/What-are-some-publicly-available-market-data-feeds) `#data-list` `#community`
@@ -133,17 +133,17 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [CoinMarketCap](https://coinmarketcap.com/) `#crypto` `#market-data``#analytics`
 - [ContractMarketCap](https://contractmarketcap.com/) `#crypto` `#futures` `#analytics`
 - [Public Companies that Own Bitcoin](https://www.buybitcoinworldwide.com/treasuries/) `#crypto` `#stocks`
-- [GlassNode Studio](https://studio.glassnode.com/metrics) `#crypto` `#analytics` `#dashboard`
+- [GlassNode Studio](https://studio.glassnode.com/metrics) `#crypto` `#analytics` `#charts`
 - [IntoTheBlock](https://app.intotheblock.com/) `#crypto` `#market-data` `#on-chain` `#mining` `#social`
-- [CoinGlass: Bitcoin Open Interest](https://www.coinglass.com/BitcoinOpenInterest) `#crypto` `#futures` `#analytics` `#dashboard`
-- [DeFiLlama: Locked Value](https://defillama.com/chains) `#crypto` `#DeFi` `#analytics` `#dashboard`
-- [Messari: DeFi Assets](https://messari.io/screener/defi-assets-7EE8EDB1) `#crypto` `#DeFi` `#analytics` `#dashboard`
+- [CoinGlass: Bitcoin Open Interest](https://www.coinglass.com/BitcoinOpenInterest) `#crypto` `#futures` `#analytics` `#charts`
+- [DeFiLlama: Locked Value](https://defillama.com/chains) `#crypto` `#DeFi` `#analytics` `#charts`
+- [Messari: DeFi Assets](https://messari.io/screener/defi-assets-7EE8EDB1) `#crypto` `#DeFi` `#analytics` `#charts`
 - [Alternative Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) `#crypto`
 - [Glassnode Insights](https://insights.glassnode.com/) `#crypto` `#insights` `#reports`
 - [Skew Analytics](https://skew.com/) `#crypto` `#analytics` `#futures` `#spot`
 - [Galaxy Digital Research](https://www.galaxydigital.io/research/) `#crypto` `#analytics` `DeFi` `#reports`
 - [The Block reports](https://www.theblockcrypto.com/reports) `#crypto` `#analytics` `trends` `#reports`
-- [The Block Charts](https://www.theblockcrypto.com/data/decentralized-finance/asset-management) `#crypto` `#DeFi` `#analytics` `#dashboard`
+- [The Block Charts](https://www.theblockcrypto.com/data/decentralized-finance/asset-management) `#crypto` `#DeFi` `#analytics` `#charts`
 
 ## News Aggregators
 
