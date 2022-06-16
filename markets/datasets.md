@@ -11,34 +11,38 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Analytics and Dashboards](#analytics-and-dashboards)
 - [News Aggregators](#news-aggregators)
 
-## Type of data sources
+## Taxonomy
 
-1. Market data
-  - Spot:
+- Market data
+  - Global identifiers
+    - Currency ISO codes
+    - FIGI
+    - Sectors
+  - Spot
     - Order books
     - Trades
-  - Derivatives:
+  - Derivatives
     - Open interest
     - Fear/greed index
-1. Financial analysis
+- Financial analysis
   - Technical analysis
   - Fundamental analysis
   - Ratings
-1. Open Data
+- Open Data
   - Company Fillings
   - Macro-economic data
   - ESG related reports (climate, carbon emission)
-1. News
+- News
   - News sentiment
   - News entities graph
   - Trends
-1. Public social networks
+- Public social networks
   - Twitter
   - reddit
-1. Private social networks
+- Private social networks
   - Telegram channels
   - Discord chats
-1. Activity
+- Activity
   - On-chain activity
   - Project development activity
   - Vulnerability detection activity
