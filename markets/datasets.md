@@ -3,7 +3,7 @@
 
 _List of datasets and service APIs with __Financial Markets__ data._
 
-- [Type of data sources](#type-of-data-sources)
+- [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
 - [Open Data](#open-data)
 - [Service APIs](#service-apis)
@@ -19,13 +19,18 @@ _List of datasets and service APIs with __Financial Markets__ data._
     - FIGI
     - Sectors
   - Spot
-    - Order books
+    - LOB (levels)
+    - OHLCVs
     - Trades
   - Derivatives
     - Open interest
     - Fear/greed index
 - Financial analysis
   - Technical analysis
+    - Trend indicators: SMA, EMA, sRSI, [CMF](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/chaikin-money-flow-cmf/)
+    - Price diffs / log return
+    - Divergences: ask/bid imbalance, sell/buy imbalance
+    - Volatility
   - Fundamental analysis
   - Ratings
 - Open Data
@@ -131,6 +136,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [EtherScan](https://etherscan.io/) `#crypto` `#ETH` `#on-chain`
 - [CoinMarketCap blockchain explorer](https://blockchain.coinmarketcap.com/) `#crypto` `#on-chain` `#explorer`
 - [BNB Smart Chain Explorer](https://bscscan.com/) `#crypto` `#BSC` `#on-chain` `#explorer`
+- [BitInfoCharts](https://bitinfocharts.com/bitcoin/explorer/) `#crypto` `#on-chain` `#explorer`
 
 ## Analytics and Dashboards
 
