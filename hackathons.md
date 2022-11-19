@@ -8,6 +8,7 @@ _List of Hackathons and competitions related to __AI cases in Retail Banking__._
 - [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction/data?select=train.csv): predictions against future market data.
 - [Data Fusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions): identify bank customers using transactions behavior and click-stream activity in Web.
 - [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting/overview): predict real crypto market data.
+- [Tinkoff Invest Robot Contest](https://meetup.tinkoff.ru/event/tinkoff-invest-robot-contest/): trading strategy for bot.
 
 ## 2021
 
