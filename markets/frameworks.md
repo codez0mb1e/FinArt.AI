@@ -69,3 +69,9 @@ Packages:
 - [tsibble](https://r-analytics.blogspot.com/2019/12/tsibble.html) `#R`
 - [smooth](https://cran.r-project.org/web/packages/smooth/smooth.pdf) `#R`
 - [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) `#R`
+- [Microsoft Finance Time Series Forecasting Framework](https://github.com/microsoft/finnts) `#R`
+
+### Outlier Detection
+
+- [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) `#python`
+-

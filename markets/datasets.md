@@ -1,44 +1,57 @@
-
 # Datasets and APIs
 
 _List of datasets and service APIs with __Financial Markets__ data._
 
-- [Type of data sources](#type-of-data-sources)
+- [Taxonomy](#taxonomy)
 - [Datasets](#datasets)
 - [Open Data](#open-data)
 - [Service APIs](#service-apis)
   - [Explorers](#explorers)
 - [Analytics and Dashboards](#analytics-and-dashboards)
+  - [OSINT](#osint)
 - [News Aggregators](#news-aggregators)
+  - [Fundraising](#fundraising)
 
-## Type of data sources
+## Taxonomy
 
-1. Market data
-  - Spot:
-    - Order books
+- Market data
+  - Global identifiers
+    - Currency ISO codes
+    - FIGI
+    - Sectors
+  - Spot
+    - LOB (levels)
+    - OHLCVs
     - Trades
-  - Derivatives:
+  - Derivatives
     - Open interest
     - Fear/greed index
-1. Financial analysis
+- Financial analysis
   - Technical analysis
+    - Trend indicators: SMA, EMA, sRSI, [CMF](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/chaikin-money-flow-cmf/)
+    - Price diffs / log return
+    - Divergences: ask/bid imbalance, sell/buy imbalance
+    - Volatility
   - Fundamental analysis
+    - Funds audit results
   - Ratings
-1. Open Data
-  - Company Fillings
+- Open Data
+  - Company fillings
   - Macro-economic data
   - ESG related reports (climate, carbon emission)
-1. News
+  - Security audit results
+- News
   - News sentiment
   - News entities graph
+  - Fundraising
   - Trends
-1. Public social networks
+- Public social networks
   - Twitter
   - reddit
-1. Private social networks
+- Private social networks
   - Telegram channels
   - Discord chats
-1. Activity
+- Activity
   - On-chain activity
   - Project development activity
   - Vulnerability detection activity
@@ -119,7 +132,8 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [OpenSanctions Dataset](https://www.opensanctions.org/datasets/) `#sanctions` `#search-api`
 - [Tinkoff Market Data](https://github.com/Tinkoff/investAPI/tree/main/src/marketdata) `#market-data` `#stocks` `#bonds` `#currency`
 - [EtherScan](https://etherscan.io/apis) `#crypto` `#ETH` `#on-chain` `#explorers`
-  
+- [OpenFIGI API](https://www.openfigi.com/api)
+
 ### Explorers
 
 - [Blockchain.com explorer](https://www.blockchain.com/explorer) `#crypto` `#on-chain`
@@ -127,6 +141,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [EtherScan](https://etherscan.io/) `#crypto` `#ETH` `#on-chain`
 - [CoinMarketCap blockchain explorer](https://blockchain.coinmarketcap.com/) `#crypto` `#on-chain` `#explorer`
 - [BNB Smart Chain Explorer](https://bscscan.com/) `#crypto` `#BSC` `#on-chain` `#explorer`
+- [BitInfoCharts](https://bitinfocharts.com/bitcoin/explorer/) `#crypto` `#on-chain` `#explorer`
 
 ## Analytics and Dashboards
 
@@ -144,10 +159,29 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Galaxy Digital Research](https://www.galaxydigital.io/research/) `#crypto` `#analytics` `DeFi` `#reports`
 - [The Block reports](https://www.theblockcrypto.com/reports) `#crypto` `#analytics` `trends` `#reports`
 - [The Block Charts](https://www.theblockcrypto.com/data/decentralized-finance/asset-management) `#crypto` `#DeFi` `#analytics` `#charts`
+- [Dune dashboards](https://dune.com/browse/dashboards) `#crypto` `#DeFi` `#analytics` `#community`
+- [Token Terminal](https://tokenterminal.com/terminal) `#crypto` `#DeFi` `#analytics` `#charts`
+- [BNB Smart Chain Charts & Statistics](https://bscscan.com/charts) `#crypto` `#binance` `#charts`
+- [DappRadar: industry overview](https://dappradar.com/industry-overview) `#crypto` `#DeFi` `web3` `#analytics` `#charts`
+
+### OSINT
+
+- [SimularWeb](https://www.similarweb.com/)
+- [OSINT Framework](https://osintframework.com/)
+- [DNS Google](https://dns.google/)
+- [OSINT: how to?](https://habr.com/ru/company/deiteriylab/blog/595801/)
 
 ## News Aggregators
 
-- [Seeking Alpha: Microsoft news example](https://seekingalpha.com/symbol/MSFT/news) `#news` `#equity`
-- [Bloomberg: Microsoft news example](https://www.bloomberg.com/quote/MSFT:US) `#news` `#equity`
-- [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news)
+- [Seeking Alpha: Microsoft news example](https://seekingalpha.com/symbol/MSFT/news) `#CeFi` `#news`
+- [Bloomberg: Microsoft news example](https://www.bloomberg.com/quote/MSFT:US) `#CeFi` `#news`
+- [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news) `#CeFi` `#news`
 - [Google Trends](https://trends.google.com/) `#news`
+- [DeFi pulse](https://www.defipulse.com/) `#DeFi` `#news`
+- [CoinTelegraph](https://cointelegraph.com/) `#crypti` `#news`
+
+### Fundraising
+
+- [Crypto fundraising data](https://messari.io/fundraising-data) `#crypto`
+- [Paradigm portfolio](https://www.paradigm.xyz/portfolio) `#crypto`
+- [YCombinator companies](https://www.ycombinator.com/companies)
