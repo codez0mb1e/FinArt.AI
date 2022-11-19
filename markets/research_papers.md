@@ -57,7 +57,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - S.E. Yi, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699)
 - Thomas Hollis, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699v1)
 
-## Time-series 
+## Time-series
 
 - Xiang Gao. [Deep reinforcement learning for time series: playing idealized trading games](https://arxiv.org/pdf/1803.03916v1.pdf) [[code]](https://github.com/golsun/deep-RL-time-series)
 - Hassan Ismail Fawaz, et. al. [Deep learning for time series classification: a review](https://arxiv.org/abs/1809.04356v4) [[code]](https://github.com/hfawaz/dl-4-tsc)
