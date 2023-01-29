@@ -8,7 +8,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - [Stock Trend Prediction](#stock-trend-prediction)
 - [Assets price and volumes forecasting](#assets-price-and-volumes-forecasting)
 - [Time-series](#time-series)
-- [Systematic Reviews](#systematic-reviews)
+- [Systematic Reviews and Awesome Lists](#systematic-reviews-and-awesome-lists)
 - [Feeds](#feeds)
 - [Books](#books)
 
@@ -64,9 +64,10 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - Aditya Kusupati, et. al. [FastGRNN: A Fast, Accurate, Stable and Tiny Kilobyte Sized Gated Recurrent Neural Network](https://arxiv.org/abs/1901.02358v1) [[code]](https://github.com/Microsoft/EdgeML)
 - Bryan Lim, et. al. [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/abs/1912.09363v2) [[code]](https://github.com/google-research/google-research/tree/master/tft)
   
-## Systematic Reviews
+## Systematic Reviews and Awesome Lists
 
 - Pilar Abad, et. al. [A comprehensive review of Value at Risk methodologies](https://www.academia.edu/22241759/A_comprehensive_review_of_Value_at_Risk_methodologies)
+- [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading), GitHub
 
 ## Feeds
 

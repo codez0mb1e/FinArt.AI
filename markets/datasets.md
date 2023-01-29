@@ -133,6 +133,10 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Tinkoff Market Data](https://github.com/Tinkoff/investAPI/tree/main/src/marketdata) `#market-data` `#stocks` `#bonds` `#currency`
 - [EtherScan](https://etherscan.io/apis) `#crypto` `#ETH` `#on-chain` `#explorers`
 - [OpenFIGI API](https://www.openfigi.com/api)
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation) `#crypto` `#market-meta`
+- [Polygon API](https://polygon.io/docs/stocks/getting-started) `#crypto` `#stocks` `#forex` `#market-data` `#free`
+- [TokenLists](https://tokenlists.org/) `#crypto` `#market-meta`
+- [Token Unlocks](https://token.unlocks.app/?category=all) `#crypto` `#market-meta`
 
 ### Explorers
 
@@ -142,6 +146,8 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [CoinMarketCap blockchain explorer](https://blockchain.coinmarketcap.com/) `#crypto` `#on-chain` `#explorer`
 - [BNB Smart Chain Explorer](https://bscscan.com/) `#crypto` `#BSC` `#on-chain` `#explorer`
 - [BitInfoCharts](https://bitinfocharts.com/bitcoin/explorer/) `#crypto` `#on-chain` `#explorer`
+-[BitInfoCharts: Blockchiins stats](https://bitinfocharts.com/index_v.html) 
+`#crypto` `#market-meta`
 
 ## Analytics and Dashboards
 
@@ -178,10 +184,15 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Morningstar: Microsoft news example](https://www.morningstar.com/stocks/xnas/msft/news) `#CeFi` `#news`
 - [Google Trends](https://trends.google.com/) `#news`
 - [DeFi pulse](https://www.defipulse.com/) `#DeFi` `#news`
-- [CoinTelegraph](https://cointelegraph.com/) `#crypti` `#news`
+- [CoinTelegraph](https://cointelegraph.com/) `#crypto` `#news`
+- [CryptoPanic](https://cryptopanic.com/) `#crypto` `#news`
 
 ### Fundraising
 
 - [Crypto fundraising data](https://messari.io/fundraising-data) `#crypto`
 - [Paradigm portfolio](https://www.paradigm.xyz/portfolio) `#crypto`
 - [YCombinator companies](https://www.ycombinator.com/companies)
+- [DeFi Lama raises](https://defillama.com/raises) `#crypto` `#DeFi`
+- [Messari Fundraising Data](https://airtable.com/embed/shrX5Q7HqIo7hrljW/tblaqYnoeg5wjGxqB/viwSuz7UFIrHFGDwr) `#crypto`
+- [HashKey Capital Portfolio](https://capital.hashkey.com/en/#portfolio) `#crypto`
+-
