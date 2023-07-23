@@ -35,7 +35,6 @@ Repositories:
 
 - [VivekPa Optimal Portfolio](https://github.com/VivekPa/OptimalPortfolio)
 - [Deep Portfolio Management](https://github.com/Rachnog/Deep-Portfolio-Management)
-- [Reinforcement learning in portfolio management](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-)
 
 ### R
 
@@ -65,6 +64,7 @@ Packages:
 - [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/)
 - [AIAlpha](https://github.com/VivekPa/AIAlpha) `#deep-leaning` `#price-prediction`
 - [Hummingbot](https://github.com/CoinAlpha/hummingbot) `#crypto` `#market-making`
+- [A3C trading](https://github.com/evgps/a3c_trading) `#reinforcement-learning`
 
 ## Time Series
 
@@ -84,6 +84,7 @@ List of stuff for analysis, forecasting,  and outlier detection
 - [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) `#R`
 - [Microsoft Finance Time Series Forecasting Framework](https://github.com/microsoft/finnts) `#R`
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) `#python`
+- [Darts: user-friendly forecasting and anomaly detection](https://unit8co.github.io/darts/)
 
 ### Review
 

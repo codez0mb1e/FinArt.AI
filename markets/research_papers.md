@@ -49,6 +49,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - Venkata Sasank Pagolu, et. al. [Sentiment Analysis of Twitter Data for Predicting Stock Market Movements](https://arxiv.org/abs/1610.09225v1) [[code]](https://github.com/harishpuvvada/BitCoin-Value-Predictor)
 - Raehyun Kim, et. al. [HATS: A Hierarchical Graph Attention Network for Stock Movement Prediction](https://arxiv.org/abs/1908.07999v3) [[code]](https://github.com/dmis-lab/hats)
 - Johan Bollen, et. al. [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003v1) [[code]](https://github.com/JeffreyJackovich/twitter_sentiment_analysis_and_correlated_trading_indicators)
+- Lior Sidi. [Improving S&P stock prediction with time series stock similarity](https://arxiv.org/abs/2002.05784).
 
 ## Assets price and volumes forecasting
 
@@ -56,6 +57,7 @@ _List of research papers and books about __AI cases in Financial Markets__._
 - Krauss, Christopher, et. al. [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](https://www.econstor.eu/bitstream/10419/130166/1/856307327.pdf)
 - S.E. Yi, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699)
 - Thomas Hollis, et. al. [A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series](https://arxiv.org/abs/1812.07699v1)
+- Liao Zhu, et. al. [News-Based Sparse Machine Learning Models for Adaptive Asset Pricing](https://www.tandfonline.com/doi/full/10.1080/26941899.2023.2187895)
 
 ## Time-series
 

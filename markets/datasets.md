@@ -146,7 +146,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [CoinMarketCap blockchain explorer](https://blockchain.coinmarketcap.com/) `#crypto` `#on-chain` `#explorer`
 - [BNB Smart Chain Explorer](https://bscscan.com/) `#crypto` `#BSC` `#on-chain` `#explorer`
 - [BitInfoCharts](https://bitinfocharts.com/bitcoin/explorer/) `#crypto` `#on-chain` `#explorer`
--[BitInfoCharts: Blockchiins stats](https://bitinfocharts.com/index_v.html) 
+-[BitInfoCharts: Blockchains stats](https://bitinfocharts.com/index_v.html)
 `#crypto` `#market-meta`
 
 ## Analytics and Dashboards
@@ -195,4 +195,3 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [DeFi Lama raises](https://defillama.com/raises) `#crypto` `#DeFi`
 - [Messari Fundraising Data](https://airtable.com/embed/shrX5Q7HqIo7hrljW/tblaqYnoeg5wjGxqB/viwSuz7UFIrHFGDwr) `#crypto`
 - [HashKey Capital Portfolio](https://capital.hashkey.com/en/#portfolio) `#crypto`
--
