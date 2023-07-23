@@ -3,6 +3,17 @@
 
 _List of programming frameworks, libraries, and web services that have rich implementation of Portfolio Optimization approaches & Algorithmic Trading._
 
+- [Portfolio Optimization](#portfolio-optimization)
+  - [Python](#python)
+  - [R](#r)
+  - [REST API](#rest-api)
+- [Algorithmic Trading](#algorithmic-trading)
+  - [Repositories](#repositories)
+- [Time Series](#time-series)
+  - [Frameworks](#frameworks)
+  - [Review](#review)
+- [Graphs](#graphs)
+
 ## Portfolio Optimization
 
 ### Python
@@ -24,7 +35,6 @@ Repositories:
 
 - [VivekPa Optimal Portfolio](https://github.com/VivekPa/OptimalPortfolio)
 - [Deep Portfolio Management](https://github.com/Rachnog/Deep-Portfolio-Management)
-- [Reinforcement learning in portfolio management](https://github.com/liangzp/Reinforcement-learning-in-portfolio-management-)
 
 ### R
 
@@ -54,10 +64,13 @@ Packages:
 - [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/)
 - [AIAlpha](https://github.com/VivekPa/AIAlpha) `#deep-leaning` `#price-prediction`
 - [Hummingbot](https://github.com/CoinAlpha/hummingbot) `#crypto` `#market-making`
+- [A3C trading](https://github.com/evgps/a3c_trading) `#reinforcement-learning`
 
-## Tools
+## Time Series
 
-### Time Series Analysis and Forecasting Frameworks
+List of stuff for analysis, forecasting,  and outlier detection
+
+### Frameworks
 
 - [Facebook Kats](https://facebookresearch.github.io/Kats/) `#python`
 - [Prophet](https://github.com/facebook/prophet) `#python` `#R`
@@ -70,8 +83,14 @@ Packages:
 - [smooth](https://cran.r-project.org/web/packages/smooth/smooth.pdf) `#R`
 - [forecast](https://cran.r-project.org/web/packages/forecast/forecast.pdf) `#R`
 - [Microsoft Finance Time Series Forecasting Framework](https://github.com/microsoft/finnts) `#R`
-
-### Outlier Detection
-
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) `#python`
--
+- [Darts: user-friendly forecasting and anomaly detection](https://unit8co.github.io/darts/)
+
+### Review
+
+- [Popular Python Time Series Packages](https://www.microprediction.com/blog/popular-timeseries-packages) `#python`
+
+## Graphs
+
+- [PyG](https://github.com/pyg-team/pytorch_geometric/releases/tag/2.2.0)
+- [RedisGraph](https://redis.com/blog/new-redisgraph-1-0-achieves-600x-faster-performance-graph-databases)
