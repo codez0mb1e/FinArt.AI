@@ -7,10 +7,12 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Open Data](#open-data)
 - [Service APIs](#service-apis)
   - [Explorers](#explorers)
+  - [Transactions and Smart contracts decoders](#transactions-and-smart-contracts-decoders)
 - [Analytics and Dashboards](#analytics-and-dashboards)
   - [OSINT](#osint)
 - [News Aggregators](#news-aggregators)
   - [Fundraising](#fundraising)
+  - [LLMs](#llms)
 
 ## Taxonomy
 
@@ -90,6 +92,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [400+ crypto currency pairs at 1-minute resolution](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution) `#crypto` `#1min-candle` `#live`
 - [Core US Fundamentals Data](https://data.nasdaq.com/databases/SF1/data) `#fundamental` `#US`
 - [Currency Foreign Exchange Rates](https://www.kaggle.com/datasets/dhruvildave/currency-exchange-rates) `#forex` `#1-day-candle`
+- [Cybersyn](https://www.cybersyn.com/economic-financial/?product_id=1547) `#economics` `
 
 ## Open Data
 
@@ -137,6 +140,9 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Polygon API](https://polygon.io/docs/stocks/getting-started) `#crypto` `#stocks` `#forex` `#market-data` `#free`
 - [TokenLists](https://tokenlists.org/) `#crypto` `#market-meta`
 - [Token Unlocks](https://token.unlocks.app/?category=all) `#crypto` `#market-meta`
+- [OkLink Market Data API](https://www.oklink.com/docs/en/#market-data-kline) `#crypto` `#market-data` `#DeFi`
+- [OkLink AML API](https://www.oklink.com/docs/aml_en/) `#crypto` `#risks`
+- [FinHub](https://finnhub.io/) `#market-data` `#fillings` `#fundamentals` `#stock` `#crypto`
 
 ### Explorers
 
@@ -148,6 +154,14 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [BitInfoCharts](https://bitinfocharts.com/bitcoin/explorer/) `#crypto` `#on-chain` `#explorer`
 -[BitInfoCharts: Blockchains stats](https://bitinfocharts.com/index_v.html)
 `#crypto` `#market-meta`
+- [MemPool.space](https://mempool.space/) `#crypto` `#on-chain` `#explorer`
+- [OkLink](https://www.oklink.com/) `#crypto` `#on-chain` `#explorer`
+- [TokenSniffer](https://tokensniffer.com/) `#crypto` `#risks`
+
+### Transactions and Smart contracts decoders
+
+- [Token Flow](https://app.tokenflow.live/anytx)
+- [Etherscan API: contract module](https://api.etherscan.io/api?module=contract&action=getsourcecode&address=<some_address>&apikey=YourApiKeyToken)
 
 ## Analytics and Dashboards
 
@@ -168,7 +182,10 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Dune dashboards](https://dune.com/browse/dashboards) `#crypto` `#DeFi` `#analytics` `#community`
 - [Token Terminal](https://tokenterminal.com/terminal) `#crypto` `#DeFi` `#analytics` `#charts`
 - [BNB Smart Chain Charts & Statistics](https://bscscan.com/charts) `#crypto` `#binance` `#charts`
-- [DappRadar: industry overview](https://dappradar.com/industry-overview) `#crypto` `#DeFi` `web3` `#analytics` `#charts`
+- [DappRadar: industry overview](https://dappradar.com/industry-overview) `#crypto` `#DeFi` `web3` `#analytics`
+- [Coin360](https://coin360.com/) `#crypto` `#analytics` `#charts`
+- [GeckoTerminal](https://www.geckoterminal.com/chain-rankings) `#DeFi` `#analytics`
+- [L2 Beat](https://l2beat.com/scaling/summary/) `#L2` `#Bridges` `#analytics`
 
 ### OSINT
 
@@ -195,3 +212,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [DeFi Lama raises](https://defillama.com/raises) `#crypto` `#DeFi`
 - [Messari Fundraising Data](https://airtable.com/embed/shrX5Q7HqIo7hrljW/tblaqYnoeg5wjGxqB/viwSuz7UFIrHFGDwr) `#crypto`
 - [HashKey Capital Portfolio](https://capital.hashkey.com/en/#portfolio) `#crypto`
+
+### LLMs
+
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) `#forecasting` `#sentiment-analysis`
