@@ -19,9 +19,8 @@ Table contains _curated lists_ grouped by sector:
 | ML in __Financial Markets__ | [+](markets/datasets.md#datasets) | [+](markets/datasets.md#service-apis) | | [+](markets/research_papers.md) | [+](markets/frameworks.md) |  [Hackatons](hackathons.md), [Online cources](markets/courses.md) |
 |  ML cases in __Insurance__ | | | [+](insurance/cases.md) | | | |
 
-## Data hubs and Privacy
+## Hubs Lists
 
-Lists:
-
-- [Data Hubs](data_hubs.md)
+- [Algorithms, Models, Research papers Hubs](hubs.md#algorithms-models-research-papers-hubs)
+- [Data Hubs](hubs.md#data-hubs)
 - [Data Privacy](data_privacy.md).

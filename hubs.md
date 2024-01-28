@@ -1,8 +1,22 @@
 # Data Hubs
 
-_List of hubs with various datasets._
+_Awesome list of hubs for Data scientist._
 
-## Data Feeds
+- [Algorithms, Models, Research papers Hubs](#algorithms-models-research-papers-hubs)
+- [Data Hubs](#data-hubs-1)
+- [Community Threads and Lists](#community-threads-and-lists)
+
+## Algorithms, Models, Research papers Hubs
+
+- [arxiv.org](https://arxiv.org/)
+- [Paperswithcode](https://www.paperswithcode.com/)
+- [GitHub](https://github.com/)
+- [Kaggle](https://www.kaggle.com/)
+- [HuggingFace](https://huggingface.co/)
+- [Google Scholar](https://scholar.google.com)
+- [Google Patents](https://patents.google.com/)
+
+## Data Hubs
 
 - [World Bank Data](https://data.worldbank.org/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -14,7 +28,7 @@ _List of hubs with various datasets._
 - [Stanford Network Analysis Project](http://snap.stanford.edu/index.html)`#network-analysis`
 - [Paperswithcode Datasets](https://www.paperswithcode.com/datasets)
 
-## Community Threads
+## Community Threads and Lists
 
 - [Reddit Open Data](https://www.reddit.com/r/opendata/)
 - [AwesomeData](https://github.com/awesomedata) `#data-list`
