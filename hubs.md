@@ -1,6 +1,8 @@
-# Data Hubs
+# Hubs
 
-_Awesome list of hubs for Data scientist._
+_Awesome list of Hubs for Data scientists._
+
+Hub category:
 
 - [Algorithms, Models, Research papers Hubs](#algorithms-models-research-papers-hubs)
 - [Data Hubs](#data-hubs-1)
@@ -20,13 +22,16 @@ _Awesome list of hubs for Data scientist._
 
 - [World Bank Data](https://data.worldbank.org/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [World Bank Open Data](https://data.worldbank.org/)
 - [Google public data](https://www.google.com/publicdata/directory)
 - [Google dataset search](https://datasetsearch.research.google.com/)
-- [Registry of Open Data on AWS](https://registry.opendata.aws/)
 - [R datasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
-- [Stanford Network Analysis Project](http://snap.stanford.edu/index.html)`#network-analysis`
+- [Stanford Network Analysis Project](http://snap.stanford.edu/index.html) `#network-analysis`
 - [Paperswithcode Datasets](https://www.paperswithcode.com/datasets)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+- [OpenML datasets](https://www.openml.org/search?type=data&sort=runs&status=active)
+- [Academic Torrents](https://academictorrents.com/)
+- [AWS Public Datasets](https://registry.opendata.aws/)
+- [BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
 
 ## Community Threads and Lists
 
