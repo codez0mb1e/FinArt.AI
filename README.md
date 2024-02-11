@@ -15,9 +15,9 @@ Table contains _curated lists_ grouped by sector:
 
 | Sector | Datasets | Service & APIs | Use cases | Research papers | Frameworks | Community Activities |
 | -- | -- | -- | -- | -- | -- | -- |
-| ML in __Banking__ | [:white_check_mark:](banking/datasets.md) | | [+](banking/cases.md) | | | [Hackatons](hackathons.md), [Conferences](banking/conferences.md) |
-| ML in __Financial Markets__ | [+](markets/datasets.md#datasets) | [+](markets/datasets.md#service-apis) | | [+](markets/research_papers.md) | [+](markets/frameworks.md) |  [Hackatons](hackathons.md), [Online cources](markets/courses.md) |
-|  ML cases in __Insurance__ | | | [+](insurance/cases.md) | | | |
+| ML in __Banking__ | [:white_check_mark:](banking/datasets.md) | | [:white_check_mark:](banking/cases.md) | | | [Hackatons](hackathons.md), [Conferences](banking/conferences.md) |
+| ML in __Financial Markets__ | [:white_check_mark:](markets/datasets.md#datasets) | [:white_check_mark:](markets/datasets.md#service-apis) | | [:white_check_mark:](markets/research_papers.md) | [:white_check_mark:](markets/frameworks.md) |  [Hackatons](hackathons.md), [Online cources](markets/courses.md) |
+|  ML cases in __Insurance__ | | | [:white_check_mark:](insurance/cases.md) | | | |
 
 ## Hubs Lists
 
