@@ -13,6 +13,7 @@ _List of programming frameworks, libraries, and web services that have rich impl
   - [Frameworks](#frameworks)
   - [Review](#review)
 - [Graphs](#graphs)
+  - [Frameworks](#frameworks-1)
 
 ## Portfolio Optimization
 
@@ -85,12 +86,18 @@ List of stuff for analysis, forecasting,  and outlier detection
 - [Microsoft Finance Time Series Forecasting Framework](https://github.com/microsoft/finnts) `#R`
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) `#python`
 - [Darts: user-friendly forecasting and anomaly detection](https://unit8co.github.io/darts/)
+- [Merlion](https://github.com/salesforce/Merlion) `#python`
+- [Time-LLM: Time Series Forecasting by Reprogramming LLM](https://paperswithcode.com/paper/time-llm-time-series-forecasting-by) `#python` `#LLM`
 
 ### Review
 
 - [Popular Python Time Series Packages](https://www.microprediction.com/blog/popular-timeseries-packages) `#python`
+- [Merlion's key features compare to other libraries](https://github.com/salesforce/Merlion?tab=readme-ov-file#comparison-with-related-libraries))
 
 ## Graphs
 
+### Frameworks
+
 - [PyG](https://github.com/pyg-team/pytorch_geometric/releases/tag/2.2.0)
 - [RedisGraph](https://redis.com/blog/new-redisgraph-1-0-achieves-600x-faster-performance-graph-databases)
+- [Tensorflow GNN](https://github.com/tensorflow/gnn).
