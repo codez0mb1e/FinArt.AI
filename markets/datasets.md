@@ -142,7 +142,8 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [Token Unlocks](https://token.unlocks.app/?category=all) `#crypto` `#market-meta`
 - [OkLink Market Data API](https://www.oklink.com/docs/en/#market-data-kline) `#crypto` `#market-data` `#DeFi`
 - [OkLink AML API](https://www.oklink.com/docs/aml_en/) `#crypto` `#risks`
-- [FinHub](https://finnhub.io/) `#market-data` `#fillings` `#fundamentals` `#stock` `#crypto`
+- [FinHub](https://finnhub.io/) `#market-data` `#fillings` `#fundamentals` `#stock` `#crypto` [tutorial](https://analyzingalpha.com/finnhub-api-python-tutorial)
+- [CoinGlass API](https://docs.coinglass.com/reference/general-information-1) `#crypto` `#futures` `#ETF`
 
 ### Explorers
 
@@ -157,6 +158,7 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [MemPool.space](https://mempool.space/) `#crypto` `#on-chain` `#explorer`
 - [OkLink](https://www.oklink.com/) `#crypto` `#on-chain` `#explorer`
 - [TokenSniffer](https://tokensniffer.com/) `#crypto` `#risks`
+- [BlockSec explorer](https://app.blocksec.com/explorer) `#crypto` `#on-chain` `#explorer`
 
 ### Transactions and Smart contracts decoders
 
@@ -185,7 +187,8 @@ _List of datasets and service APIs with __Financial Markets__ data._
 - [DappRadar: industry overview](https://dappradar.com/industry-overview) `#crypto` `#DeFi` `web3` `#analytics`
 - [Coin360](https://coin360.com/) `#crypto` `#analytics` `#charts`
 - [GeckoTerminal](https://www.geckoterminal.com/chain-rankings) `#DeFi` `#analytics`
-- [L2 Beat](https://l2beat.com/scaling/summary/) `#L2` `#Bridges` `#analytics`
+- [L2 Beat](https://l2beat.com/scaling/summary/) `#L2` `#bridges` `#analytics`
+- [Connext scan](https://connextscan.io/)  `#L2` `#bridges` `#analytics`
 
 ### OSINT
 
