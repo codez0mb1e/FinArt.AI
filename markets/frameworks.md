@@ -31,6 +31,7 @@ Packages:
 - [Empyrial](https://empyrial.gitbook.io/empyrial/)
 - [Okama](https://okama.readthedocs.io/en/master/index.html)
 - [Qlib](https://github.com/microsoft/qlib)
+- [FinQuant](https://github.com/fmilthaler/FinQuant)
 
 Repositories:
 
@@ -98,6 +99,9 @@ List of stuff for analysis, forecasting,  and outlier detection
 
 ### Frameworks
 
-- [PyG](https://github.com/pyg-team/pytorch_geometric/releases/tag/2.2.0)
+- [PyG](https://www.pyg.org/)
+- [DGL](https://www.dgl.ai/)
+- NetworkX: general graph analysis
+- PyVis: interactive graph visualizations
 - [RedisGraph](https://redis.com/blog/new-redisgraph-1-0-achieves-600x-faster-performance-graph-databases)
 - [Tensorflow GNN](https://github.com/tensorflow/gnn).
