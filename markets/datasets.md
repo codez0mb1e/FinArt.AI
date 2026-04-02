@@ -79,6 +79,7 @@ Kaggle datasets list (unsuitable to production systems, but Ok for research or e
 - [Intrinio API](https://docs.intrinio.com/documentation/) `#market-data` `#fundamentals` `#SEC`
 - [Rank and Fiels](http://rankandfiled.com/#/data/tickers) `#SEC` `#reports`
 - [OpenEDGAR](https://github.com/LexPredict/openedgar) `#SEC` `#reports` `#open-source` `#free`
+- [Congressional Stock Brain](https://congressionalstockbrain.com) `#government` `#STOCK-Act` `#free`
 - [FMP API](https://financialmodelingprep.com/developer/) `#market-data` `#free`
 - [Markets Stack](https://marketstack.com/documentation) `#market-data`
 - [FTX API](https://docs.ftx.com/#overview) `#crypto` `#algo-trading` `#market-data` `#spot` `#futures`
