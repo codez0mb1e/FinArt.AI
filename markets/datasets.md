@@ -99,6 +99,7 @@ Kaggle datasets list (unsuitable to production systems, but Ok for research or e
 - [OkLink AML API](https://www.oklink.com/docs/aml_en/) `#crypto` `#risks`
 - [FinHub](https://finnhub.io/) `#market-data` `#fillings` `#fundamentals` `#stock` `#crypto` [tutorial](https://analyzingalpha.com/finnhub-api-python-tutorial)
 - [CoinGlass API](https://docs.coinglass.com/reference/general-information-1) `#crypto` `#futures` `#ETF`
+- [Eulerpool API](https://eulerpool.com/developers) `#market-data` `#fundamentals` `#stocks` `#ETF` `#macro` `#SEC` `#crypto` `#forex` `#free`
 
 ### Explorers
 
