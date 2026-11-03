@@ -100,6 +100,8 @@ Kaggle datasets list (unsuitable to production systems, but Ok for research or e
 - [FinHub](https://finnhub.io/) `#market-data` `#fillings` `#fundamentals` `#stock` `#crypto` [tutorial](https://analyzingalpha.com/finnhub-api-python-tutorial)
 - [CoinGlass API](https://docs.coinglass.com/reference/general-information-1) `#crypto` `#futures` `#ETF`
 
+- [SiftingIO](https://sifting.io/docs) — Real-time REST/WebSocket data and historical REST data for US stocks and ETFs, forex, commodities, and crypto; API key required, with a limited free plan for evaluation and internal non-commercial use. `#market-data` `#stocks` `#ETF` `#forex` `#commodities` `#crypto`
+
 ### Explorers
 
 - [Blockchain.com explorer](https://www.blockchain.com/explorer) `#crypto` `#on-chain`
